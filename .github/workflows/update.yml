@@ -1,0 +1,27 @@
+name: Check IGI2 Server
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Run every 5 minutes
+  workflow_dispatch:      # Allows manual run button
+
+permissions:
+  contents: write
+
+jobs:
+  run-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Run Python Script
+        run: python checker.py
+      - name: Commit Results
+        run: |
+          git config --global user.name "Auto-Updater"
+          git config --global user.email "bot@noreply.github.com"
+          git add status.json
+          git commit -m "Update status" || exit 0
+          git push
