@@ -2,11 +2,19 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "03:58",
+    "players_count": "1/32",
+    "timeleft": "02:52",
     "score_igi": "20",
-    "score_con": "431",
-    "team_igi_players": [],
+    "score_con": "435",
+    "team_igi_players": [
+      {
+        "name": "ITACHI Fan *** Not pro Player :(",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "96",
+        "team": "0"
+      }
+    ],
     "team_con_players": [],
     "status": "Online"
   }
