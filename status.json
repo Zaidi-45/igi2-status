@@ -3,15 +3,15 @@
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
     "players_count": "1/32",
-    "timeleft": "01:41",
+    "timeleft": "02:58",
     "score_igi": "0",
-    "score_con": "106",
+    "score_con": "107",
     "team_igi_players": [
       {
-        "name": "SHEF*",
+        "name": "SHEF",
         "frags": "0",
-        "deaths": "5",
-        "ping": "111",
+        "deaths": "1",
+        "ping": "115",
         "team": "0"
       }
     ],
