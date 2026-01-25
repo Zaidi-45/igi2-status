@@ -2,20 +2,28 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Ghostcity",
-    "players_count": "1/32",
-    "timeleft": "14:34",
+    "players_count": "2/32",
+    "timeleft": "00:45",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
         "name": "DON",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "170",
+        "frags": "2",
+        "deaths": "5",
+        "ping": "171",
         "team": "0"
       }
     ],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "SHEF",
+        "frags": "6",
+        "deaths": "5",
+        "ping": "111",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
