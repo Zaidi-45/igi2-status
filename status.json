@@ -2,12 +2,35 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "12:56",
+    "players_count": "3/32",
+    "timeleft": "MISSION OVER",
     "score_igi": "0",
-    "score_con": "55",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "57",
+    "team_igi_players": [
+      {
+        "name": "Killer Stick",
+        "frags": "2",
+        "deaths": "1",
+        "ping": "85",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "janialpha",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "63",
+        "team": "1"
+      },
+      {
+        "name": "Gamer Wolf Beta",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "114",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
