@@ -2,28 +2,12 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "2/32",
-    "timeleft": "MISSION OVER",
-    "score_igi": "4",
-    "score_con": "462",
-    "team_igi_players": [
-      {
-        "name": "ASAD",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "0",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Mars",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "52",
-        "team": "1"
-      }
-    ],
+    "players_count": "0/32",
+    "timeleft": "00:27",
+    "score_igi": "0",
+    "score_con": "0",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
