@@ -1,18 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois Villa",
-    "players_count": "1/32",
-    "timeleft": "03:44",
-    "score_igi": "1",
-    "score_con": "3",
-    "team_igi_players": [],
-    "team_con_players": [
+    "mapname": "Dark Hills",
+    "players_count": "5/32",
+    "timeleft": "11:31",
+    "score_igi": "0",
+    "score_con": "0",
+    "team_igi_players": [
       {
         "name": "SHEF",
-        "frags": "16",
-        "deaths": "21",
-        "ping": "104",
+        "frags": "2",
+        "deaths": "3",
+        "ping": "114",
+        "team": "0"
+      },
+      {
+        "name": "janialpha",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "83",
+        "team": "0"
+      },
+      {
+        "name": "ASAD",
+        "frags": "4",
+        "deaths": "6",
+        "ping": "64",
+        "team": "0"
+      },
+      {
+        "name": "DON",
+        "frags": "2",
+        "deaths": "5",
+        "ping": "74",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "icv",
+        "frags": "6",
+        "deaths": "4",
+        "ping": "90",
         "team": "1"
       }
     ],
