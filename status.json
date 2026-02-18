@@ -1,47 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Dark Hills",
-    "players_count": "5/32",
-    "timeleft": "11:31",
+    "mapname": "Sandstorm",
+    "players_count": "6/32",
+    "timeleft": "MISSION OVER",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "SHEF",
-        "frags": "2",
-        "deaths": "3",
-        "ping": "114",
+        "name": "ASAD",
+        "frags": "14",
+        "deaths": "8",
+        "ping": "69",
         "team": "0"
       },
       {
         "name": "janialpha",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "83",
+        "frags": "12",
+        "deaths": "28",
+        "ping": "95",
         "team": "0"
       },
       {
-        "name": "ASAD",
-        "frags": "4",
-        "deaths": "6",
-        "ping": "64",
-        "team": "0"
-      },
-      {
-        "name": "DON",
-        "frags": "2",
-        "deaths": "5",
-        "ping": "74",
+        "name": "Deniz ",
+        "frags": "25",
+        "deaths": "19",
+        "ping": "97",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "icv",
-        "frags": "6",
-        "deaths": "4",
-        "ping": "90",
+        "frags": "25",
+        "deaths": "34",
+        "ping": "81",
+        "team": "1"
+      },
+      {
+        "name": "SHEF",
+        "frags": "22",
+        "deaths": "27",
+        "ping": "114",
+        "team": "1"
+      },
+      {
+        "name": "DON",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "68",
         "team": "1"
       }
     ],
