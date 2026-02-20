@@ -1,54 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "6/32",
-    "timeleft": "08:41",
+    "mapname": "Canyon",
+    "players_count": "5/32",
+    "timeleft": "12:28",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
         "name": "IGI_Freak",
         "frags": "2",
-        "deaths": "7",
-        "ping": "87",
+        "deaths": "19",
+        "ping": "79",
         "team": "0"
       },
       {
-        "name": "SHEF",
-        "frags": "3",
-        "deaths": "3",
-        "ping": "118",
+        "name": "janialpha",
+        "frags": "4",
+        "deaths": "11",
+        "ping": "75",
         "team": "0"
       },
       {
-        "name": "DON",
-        "frags": "1",
-        "deaths": "1",
-        "ping": "87",
+        "name": "Khalid",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "250",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Khalid",
+        "name": "SHEF",
         "frags": "2",
-        "deaths": "2",
-        "ping": "107",
+        "deaths": "9",
+        "ping": "112",
         "team": "1"
       },
       {
-        "name": "Killer Stick",
-        "frags": "5",
-        "deaths": "6",
-        "ping": "175",
-        "team": "1"
-      },
-      {
-        "name": "Gamer Wolf Beta",
-        "frags": "1",
-        "deaths": "0",
-        "ping": "140",
+        "name": "DON",
+        "frags": "6",
+        "deaths": "11",
+        "ping": "75",
         "team": "1"
       }
     ],
