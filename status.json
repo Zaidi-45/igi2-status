@@ -1,9 +1,9 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Canyon",
-    "players_count": "4/32",
-    "timeleft": "01:57",
+    "mapname": "Desertstorm",
+    "players_count": "3/32",
+    "timeleft": "03:27",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
@@ -11,30 +11,23 @@
         "name": "TEST",
         "frags": "0",
         "deaths": "3",
-        "ping": "65",
-        "team": "0"
-      },
-      {
-        "name": "Khalid",
-        "frags": "3",
-        "deaths": "4",
-        "ping": "61",
+        "ping": "67",
         "team": "0"
       },
       {
         "name": "ASAD",
-        "frags": "0",
-        "deaths": "3",
-        "ping": "67",
+        "frags": "2",
+        "deaths": "2",
+        "ping": "79",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "janialpha",
-        "frags": "2",
-        "deaths": "4",
-        "ping": "75",
+        "frags": "1",
+        "deaths": "2",
+        "ping": "74",
         "team": "1"
       }
     ],
