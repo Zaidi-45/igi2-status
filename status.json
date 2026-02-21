@@ -1,47 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Canyon",
+    "mapname": "Pribois Villa",
     "players_count": "5/32",
-    "timeleft": "14:56",
+    "timeleft": "10:10",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "AssaultSharpShooter",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "94",
+        "name": "IGI_Freak",
+        "frags": "3",
+        "deaths": "6",
+        "ping": "102",
         "team": "0"
       },
       {
-        "name": "IGI_Freak",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "95",
+        "name": "AssaultSharpShooter",
+        "frags": "7",
+        "deaths": "7",
+        "ping": "78",
+        "team": "0"
+      },
+      {
+        "name": "immortal",
+        "frags": "5",
+        "deaths": "3",
+        "ping": "57",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "DON",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "93",
+        "frags": "7",
+        "deaths": "8",
+        "ping": "61",
         "team": "1"
       },
       {
         "name": "shef",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "120",
-        "team": "1"
-      },
-      {
-        "name": "janialpha",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "112",
+        "frags": "8",
+        "deaths": "7",
+        "ping": "118",
         "team": "1"
       }
     ],
