@@ -1,54 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "6/32",
-    "timeleft": "01:13",
+    "mapname": "Canyon",
+    "players_count": "5/32",
+    "timeleft": "14:56",
     "score_igi": "0",
-    "score_con": "3",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "JaniDelta",
-        "frags": "1",
-        "deaths": "3",
-        "ping": "469",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "1",
-        "deaths": "2",
-        "ping": "95",
-        "team": "0"
-      },
-      {
-        "name": "shef",
+        "name": "AssaultSharpShooter",
         "frags": "0",
-        "deaths": "1",
-        "ping": "124",
+        "deaths": "0",
+        "ping": "94",
+        "team": "0"
+      },
+      {
+        "name": "IGI_Freak",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "95",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "IGI_Freak",
-        "frags": "12",
-        "deaths": "5",
-        "ping": "92",
-        "team": "1"
-      },
-      {
         "name": "DON",
         "frags": "0",
         "deaths": "0",
-        "ping": "194",
+        "ping": "93",
+        "team": "1"
+      },
+      {
+        "name": "shef",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "120",
         "team": "1"
       },
       {
         "name": "janialpha",
-        "frags": "2",
-        "deaths": "1",
-        "ping": "68",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "112",
         "team": "1"
       }
     ],
