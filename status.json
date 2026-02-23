@@ -1,13 +1,36 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory",
-    "players_count": "0/32",
-    "timeleft": "14:50",
+    "mapname": "Pribois Villa",
+    "players_count": "3/32",
+    "timeleft": "MISSION OVER",
     "score_igi": "0",
     "score_con": "2",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "team_igi_players": [
+      {
+        "name": "shef",
+        "frags": "11",
+        "deaths": "11",
+        "ping": "116",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "DON",
+        "frags": "0",
+        "deaths": "3",
+        "ping": "97",
+        "team": "1"
+      },
+      {
+        "name": "icv88",
+        "frags": "6",
+        "deaths": "10",
+        "ping": "86",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
