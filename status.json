@@ -2,67 +2,60 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "8/32",
-    "timeleft": "08:14",
-    "score_igi": "0",
-    "score_con": "3",
+    "players_count": "7/32",
+    "timeleft": "08:36",
+    "score_igi": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
         "name": "shef",
-        "frags": "37",
-        "deaths": "50",
-        "ping": "114",
+        "frags": "13",
+        "deaths": "7",
+        "ping": "105",
         "team": "0"
       },
       {
         "name": "shadowcamper",
-        "frags": "16",
-        "deaths": "30",
-        "ping": "81",
+        "frags": "24",
+        "deaths": "12",
+        "ping": "66",
         "team": "0"
       },
       {
-        "name": "LinuX Man",
-        "frags": "6",
-        "deaths": "7",
-        "ping": "173",
+        "name": "IGI_Freak",
+        "frags": "12",
+        "deaths": "10",
+        "ping": "130",
         "team": "0"
       },
       {
         "name": "AssaultSharpShooter",
-        "frags": "5",
-        "deaths": "1",
-        "ping": "62",
+        "frags": "1",
+        "deaths": "0",
+        "ping": "65",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "The Cow",
-        "frags": "37",
-        "deaths": "48",
-        "ping": "71",
-        "team": "1"
-      },
-      {
         "name": "icv88",
-        "frags": "43",
-        "deaths": "43",
-        "ping": "74",
-        "team": "1"
-      },
-      {
-        "name": "DON",
-        "frags": "4",
-        "deaths": "3",
+        "frags": "15",
+        "deaths": "23",
         "ping": "87",
         "team": "1"
       },
       {
-        "name": "IGI_Freak",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "83",
+        "name": "The Cow",
+        "frags": "8",
+        "deaths": "16",
+        "ping": "64",
+        "team": "1"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "6",
+        "deaths": "16",
+        "ping": "109",
         "team": "1"
       }
     ],
