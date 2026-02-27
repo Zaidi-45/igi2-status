@@ -2,46 +2,60 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "5/32",
-    "timeleft": "11:46",
+    "players_count": "7/32",
+    "timeleft": "09:35",
     "score_igi": "0",
-    "score_con": "2",
+    "score_con": "3",
     "team_igi_players": [
       {
         "name": "shef",
-        "frags": "25",
-        "deaths": "43",
-        "ping": "117",
-        "team": "0"
-      },
-      {
-        "name": "DON",
-        "frags": "6",
-        "deaths": "5",
-        "ping": "70",
+        "frags": "36",
+        "deaths": "49",
+        "ping": "125",
         "team": "0"
       },
       {
         "name": "shadowcamper",
+        "frags": "14",
+        "deaths": "30",
+        "ping": "77",
+        "team": "0"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "6",
+        "deaths": "6",
+        "ping": "94",
+        "team": "0"
+      },
+      {
+        "name": "AssaultSharpShooter",
         "frags": "1",
-        "deaths": "3",
-        "ping": "71",
+        "deaths": "1",
+        "ping": "81",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "The Cow",
-        "frags": "22",
-        "deaths": "27",
-        "ping": "79",
+        "frags": "37",
+        "deaths": "45",
+        "ping": "66",
         "team": "1"
       },
       {
         "name": "icv88",
-        "frags": "23",
-        "deaths": "20",
-        "ping": "80",
+        "frags": "43",
+        "deaths": "39",
+        "ping": "86",
+        "team": "1"
+      },
+      {
+        "name": "DON",
+        "frags": "2",
+        "deaths": "2",
+        "ping": "78",
         "team": "1"
       }
     ],
