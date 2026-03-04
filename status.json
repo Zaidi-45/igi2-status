@@ -1,17 +1,17 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
+    "mapname": "The Airfield 2024",
     "players_count": "1/32",
-    "timeleft": "08:10",
-    "score_igi": "4",
-    "score_con": "97",
+    "timeleft": "10:07",
+    "score_igi": "0",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "IGI_Freak",
+        "name": "AssaultSharpShooter",
         "frags": "0",
         "deaths": "0",
-        "ping": "102",
+        "ping": "79",
         "team": "0"
       }
     ],
