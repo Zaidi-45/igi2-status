@@ -2,39 +2,53 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "4/32",
-    "timeleft": "11:59",
+    "players_count": "6/32",
+    "timeleft": "03:35",
     "score_igi": "1",
-    "score_con": "7",
+    "score_con": "9",
     "team_igi_players": [
       {
-        "name": "DON",
-        "frags": "29",
-        "deaths": "28",
-        "ping": "67",
+        "name": "Camper AXOG KID",
+        "frags": "18",
+        "deaths": "51",
+        "ping": "104",
         "team": "0"
       },
       {
-        "name": "Camper AXOG KID",
-        "frags": "1",
+        "name": "Khalid",
+        "frags": "28",
+        "deaths": "23",
+        "ping": "61",
+        "team": "0"
+      },
+      {
+        "name": "shadowD",
+        "frags": "14",
         "deaths": "12",
-        "ping": "107",
+        "ping": "80",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "IGI_Freak",
-        "frags": "9",
-        "deaths": "18",
-        "ping": "112",
+        "name": "DON",
+        "frags": "58",
+        "deaths": "57",
+        "ping": "99",
         "team": "1"
       },
       {
-        "name": "AssaultSharpShooter",
-        "frags": "7",
+        "name": "IGI_Freak",
+        "frags": "4",
+        "deaths": "4",
+        "ping": "130",
+        "team": "1"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "2",
         "deaths": "1",
-        "ping": "66",
+        "ping": "236",
         "team": "1"
       }
     ],
