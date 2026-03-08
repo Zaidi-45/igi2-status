@@ -1,17 +1,17 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sunny Chinese Temple",
+    "mapname": "Jungle Ravine",
     "players_count": "2/32",
-    "timeleft": "14:59",
+    "timeleft": "07:37",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "shadowD",
+        "name": "IGI_Freak",
         "frags": "0",
         "deaths": "0",
-        "ping": "81",
+        "ping": "104",
         "team": "0"
       }
     ],
@@ -20,7 +20,7 @@
         "name": "DON",
         "frags": "0",
         "deaths": "0",
-        "ping": "75",
+        "ping": "91",
         "team": "1"
       }
     ],
