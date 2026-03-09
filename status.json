@@ -1,47 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "5/32",
-    "timeleft": "06:48",
-    "score_igi": "0",
+    "mapname": "Sunny Chinese Temple",
+    "players_count": "6/32",
+    "timeleft": "04:07",
+    "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
         "name": "DON",
-        "frags": "7",
-        "deaths": "10",
-        "ping": "74",
+        "frags": "16",
+        "deaths": "15",
+        "ping": "66",
         "team": "0"
       },
       {
         "name": "shadowcamper",
-        "frags": "3",
-        "deaths": "3",
-        "ping": "85",
+        "frags": "9",
+        "deaths": "8",
+        "ping": "76",
+        "team": "0"
+      },
+      {
+        "name": "IGI_Freak",
+        "frags": "1",
+        "deaths": "6",
+        "ping": "130",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "shef",
-        "frags": "4",
-        "deaths": "7",
+        "frags": "9",
+        "deaths": "6",
         "ping": "111",
         "team": "1"
       },
       {
-        "name": "IGI_Freak",
-        "frags": "4",
-        "deaths": "7",
-        "ping": "104",
+        "name": "AssaultSharpShooter",
+        "frags": "12",
+        "deaths": "8",
+        "ping": "78",
         "team": "1"
       },
       {
-        "name": "AssaultSharpShooter",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "68",
+        "name": "LinuX Man",
+        "frags": "8",
+        "deaths": "12",
+        "ping": "123",
         "team": "1"
       }
     ],
