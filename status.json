@@ -1,33 +1,18 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "3/32",
-    "timeleft": "02:29",
+    "mapname": "Jungle Ravine",
+    "players_count": "1/32",
+    "timeleft": "03:20",
     "score_igi": "0",
     "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "RubaTheLord Here",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "257",
-        "team": "0"
-      }
-    ],
+    "team_igi_players": [],
     "team_con_players": [
       {
-        "name": "shadowcamper",
+        "name": "shef",
         "frags": "0",
         "deaths": "0",
-        "ping": "88",
-        "team": "1"
-      },
-      {
-        "name": "Sheryar",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "98",
+        "ping": "101",
         "team": "1"
       }
     ],
