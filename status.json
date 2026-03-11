@@ -1,40 +1,18 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "4/32",
-    "timeleft": "08:27",
+    "mapname": "Sunny Chinese Temple",
+    "players_count": "1/32",
+    "timeleft": "06:00",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "shef",
-        "frags": "1",
-        "deaths": "0",
-        "ping": "102",
-        "team": "0"
-      },
-      {
-        "name": "LinuX Man",
-        "frags": "2",
-        "deaths": "2",
-        "ping": "204",
-        "team": "0"
-      }
-    ],
+    "score_con": "1",
+    "team_igi_players": [],
     "team_con_players": [
       {
-        "name": "THE SHINOBI",
-        "frags": "1",
-        "deaths": "5",
-        "ping": "261",
-        "team": "1"
-      },
-      {
-        "name": "IGI_Freak",
+        "name": "shef",
         "frags": "0",
         "deaths": "0",
-        "ping": "197",
+        "ping": "117",
         "team": "1"
       }
     ],
