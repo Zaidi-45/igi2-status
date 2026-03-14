@@ -2,12 +2,28 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sunny Chinese Temple",
-    "players_count": "0/32",
-    "timeleft": "05:05",
+    "players_count": "2/32",
+    "timeleft": "01:37",
     "score_igi": "0",
-    "score_con": "1",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "2",
+    "team_igi_players": [
+      {
+        "name": "shef",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "109",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "DON",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "90",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
