@@ -1,50 +1,12 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory",
-    "players_count": "5/32",
-    "timeleft": "02:02",
-    "score_igi": "1",
-    "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "shef",
-        "frags": "34",
-        "deaths": "36",
-        "ping": "112",
-        "team": "0"
-      },
-      {
-        "name": "immortal",
-        "frags": "46",
-        "deaths": "49",
-        "ping": "72",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "AssaultSharpShooter",
-        "frags": "23",
-        "deaths": "24",
-        "ping": "75",
-        "team": "1"
-      },
-      {
-        "name": "DON",
-        "frags": "39",
-        "deaths": "39",
-        "ping": "74",
-        "team": "1"
-      },
-      {
-        "name": "shadowcamper",
-        "frags": "16",
-        "deaths": "19",
-        "ping": "351",
-        "team": "1"
-      }
-    ],
-    "status": "Online"
+    "status": "Offline",
+    "mapname": "-",
+    "timeleft": "--:--",
+    "score_igi": 0,
+    "score_con": 0,
+    "team_igi_players": [],
+    "team_con_players": []
   }
 ]
