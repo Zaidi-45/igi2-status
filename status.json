@@ -1,40 +1,26 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory",
-    "players_count": "4/32",
-    "timeleft": "00:06",
-    "score_igi": "0",
+    "mapname": "Sandstorm",
+    "players_count": "2/32",
+    "timeleft": "11:08",
+    "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "DON",
-        "frags": "24",
-        "deaths": "27",
-        "ping": "75",
-        "team": "0"
-      },
-      {
-        "name": "RUBAL HVPER",
-        "frags": "4",
+        "name": "BoneMashing",
+        "frags": "19",
         "deaths": "15",
-        "ping": "192",
+        "ping": "77",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "IGI_Freak",
-        "frags": "20",
-        "deaths": "24",
-        "ping": "163",
-        "team": "1"
-      },
-      {
-        "name": "shadowcamper",
-        "frags": "17",
-        "deaths": "7",
-        "ping": "107",
+        "name": "AssaultSharpShooter",
+        "frags": "15",
+        "deaths": "19",
+        "ping": "83",
         "team": "1"
       }
     ],
