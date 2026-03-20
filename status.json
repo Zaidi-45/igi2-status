@@ -1,61 +1,61 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
+    "mapname": "Sandstorm",
     "players_count": "7/32",
-    "timeleft": "08:53",
+    "timeleft": "01:03",
     "score_igi": "0",
-    "score_con": "2",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "shef",
-        "frags": "23",
-        "deaths": "16",
-        "ping": "134",
-        "team": "0"
-      },
-      {
-        "name": "IGI_Freak",
-        "frags": "8",
-        "deaths": "17",
-        "ping": "83",
+        "name": "immortal",
+        "frags": "14",
+        "deaths": "34",
+        "ping": "81",
         "team": "0"
       },
       {
         "name": "BoneMashing",
-        "frags": "8",
-        "deaths": "9",
-        "ping": "63",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "67",
         "team": "0"
       },
       {
-        "name": "shadowcamper",
-        "frags": "1",
-        "deaths": "1",
-        "ping": "80",
+        "name": "DON",
+        "frags": "16",
+        "deaths": "16",
+        "ping": "101",
+        "team": "0"
+      },
+      {
+        "name": "shef",
+        "frags": "3",
+        "deaths": "2",
+        "ping": "149",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "LinuX Man",
-        "frags": "26",
-        "deaths": "25",
-        "ping": "261",
+        "frags": "29",
+        "deaths": "32",
+        "ping": "217",
         "team": "1"
       },
       {
-        "name": "DON",
-        "frags": "38",
-        "deaths": "31",
+        "name": "AssaultSharpShooter",
+        "frags": "41",
+        "deaths": "27",
         "ping": "77",
         "team": "1"
       },
       {
-        "name": "immortal",
-        "frags": "15",
-        "deaths": "28",
-        "ping": "70",
+        "name": "Connor",
+        "frags": "10",
+        "deaths": "21",
+        "ping": "336",
         "team": "1"
       }
     ],
