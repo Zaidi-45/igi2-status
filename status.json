@@ -1,36 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sunny Chinese Temple",
-    "players_count": "3/32",
-    "timeleft": "03:08",
+    "mapname": "Pribois villa",
+    "players_count": "0/32",
+    "timeleft": "00:56",
     "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [
-      {
-        "name": "DenizJIMBO",
-        "frags": "13",
-        "deaths": "19",
-        "ping": "133",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "DON",
-        "frags": "2",
-        "deaths": "6",
-        "ping": "89",
-        "team": "1"
-      },
-      {
-        "name": "shef",
-        "frags": "17",
-        "deaths": "12",
-        "ping": "119",
-        "team": "1"
-      }
-    ],
+    "score_con": "0",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
