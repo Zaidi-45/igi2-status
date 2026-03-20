@@ -1,43 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory",
-    "players_count": "4/32",
-    "timeleft": "08:07",
+    "mapname": "Sandstorm",
+    "players_count": "0/32",
+    "timeleft": "08:26",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "golu beta masti nhi",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "160",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "TEST",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "73",
-        "team": "1"
-      },
-      {
-        "name": "TEST2",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "168",
-        "team": "1"
-      },
-      {
-        "name": "Rubal",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "205",
-        "team": "1"
-      }
-    ],
+    "score_con": "2",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
