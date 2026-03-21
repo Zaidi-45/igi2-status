@@ -1,26 +1,26 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "2/32",
-    "timeleft": "09:24",
+    "mapname": "Pribois villa",
+    "players_count": "3/32",
+    "timeleft": "08:00",
     "score_igi": "0",
-    "score_con": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Beyler Bey IGI 2",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "72",
+        "name": "qiuhanerjian",
+        "frags": "1",
+        "deaths": "5",
+        "ping": "303",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "x_TavrixEndeR_x",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "678",
+        "name": "IGI 2 MPA Launcher",
+        "frags": "2",
+        "deaths": "1",
+        "ping": "80",
         "team": "1"
       }
     ],
