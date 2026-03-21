@@ -2,67 +2,25 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "8/32",
-    "timeleft": "01:23",
+    "players_count": "2/32",
+    "timeleft": "09:24",
     "score_igi": "0",
-    "score_con": "2",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "immortal",
-        "frags": "39",
-        "deaths": "41",
-        "ping": "73",
-        "team": "0"
-      },
-      {
-        "name": "AssaultSharpShooter",
-        "frags": "45",
-        "deaths": "32",
-        "ping": "79",
-        "team": "0"
-      },
-      {
         "name": "Beyler Bey IGI 2",
-        "frags": "4",
-        "deaths": "13",
-        "ping": "92",
-        "team": "0"
-      },
-      {
-        "name": "shadowcamper",
-        "frags": "1",
-        "deaths": "1",
-        "ping": "91",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "72",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "RUBAL HVPER",
-        "frags": "11",
-        "deaths": "20",
-        "ping": "196",
-        "team": "1"
-      },
-      {
-        "name": "shef",
-        "frags": "9",
-        "deaths": "7",
-        "ping": "128",
-        "team": "1"
-      },
-      {
-        "name": "Jones",
-        "frags": "2",
-        "deaths": "3",
-        "ping": "398",
-        "team": "1"
-      },
-      {
         "name": "x_TavrixEndeR_x",
         "frags": "0",
-        "deaths": "1",
-        "ping": "157",
+        "deaths": "0",
+        "ping": "678",
         "team": "1"
       }
     ],
