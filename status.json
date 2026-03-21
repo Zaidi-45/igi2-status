@@ -2,60 +2,46 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "7/32",
-    "timeleft": "10:28",
-    "score_igi": "1",
+    "players_count": "5/32",
+    "timeleft": "12:11",
+    "score_igi": "0",
     "score_con": "1",
     "team_igi_players": [
       {
+        "name": "BoneMashing",
+        "frags": "15",
+        "deaths": "8",
+        "ping": "77",
+        "team": "0"
+      },
+      {
         "name": "IGI_Freak",
-        "frags": "14",
-        "deaths": "25",
-        "ping": "91",
-        "team": "0"
-      },
-      {
-        "name": "LinuX Man",
-        "frags": "6",
-        "deaths": "20",
-        "ping": "207",
-        "team": "0"
-      },
-      {
-        "name": "WaBossWaKyaKwaita..",
         "frags": "5",
-        "deaths": "6",
-        "ping": "84",
+        "deaths": "7",
+        "ping": "93",
         "team": "0"
       },
       {
-        "name": "immortal",
-        "frags": "6",
-        "deaths": "14",
-        "ping": "62",
+        "name": "shef",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "106",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "shef",
-        "frags": "31",
-        "deaths": "20",
-        "ping": "131",
+        "name": "LinuX Man",
+        "frags": "14",
+        "deaths": "14",
+        "ping": "214",
         "team": "1"
       },
       {
-        "name": "BoneMashing",
-        "frags": "19",
+        "name": "immortal",
+        "frags": "1",
         "deaths": "8",
-        "ping": "70",
-        "team": "1"
-      },
-      {
-        "name": "DON",
-        "frags": "11",
-        "deaths": "7",
-        "ping": "69",
+        "ping": "75",
         "team": "1"
       }
     ],
