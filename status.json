@@ -1,26 +1,33 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "2/32",
-    "timeleft": "11:27",
-    "score_igi": "0",
-    "score_con": "2",
+    "mapname": "Factory",
+    "players_count": "3/32",
+    "timeleft": "08:20",
+    "score_igi": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
+        "name": "IGI 2 MPA Launcher ",
+        "frags": "7",
+        "deaths": "15",
+        "ping": "92",
+        "team": "0"
+      },
+      {
         "name": "VoidEmperor",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "263",
+        "frags": "9",
+        "deaths": "5",
+        "ping": "274",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "IGI_Freak",
-        "frags": "1",
-        "deaths": "1",
-        "ping": "134",
+        "name": "BoneMashing",
+        "frags": "5",
+        "deaths": "5",
+        "ping": "62",
         "team": "1"
       }
     ],
