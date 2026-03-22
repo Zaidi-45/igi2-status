@@ -3,15 +3,15 @@
     "hostname": "BETA VERSION",
     "mapname": "Sandstorm",
     "players_count": "1/16",
-    "timeleft": "09:43",
+    "timeleft": "14:58",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "2",
     "team_igi_players": [
       {
         "name": "shef",
         "frags": "0",
         "deaths": "0",
-        "ping": "109",
+        "ping": "115",
         "team": "0"
       }
     ],
