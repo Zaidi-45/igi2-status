@@ -1,40 +1,40 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
+    "mapname": "Factory",
     "players_count": "4/32",
-    "timeleft": "06:09",
-    "score_igi": "0",
-    "score_con": "0",
+    "timeleft": "11:50",
+    "score_igi": "1",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "shef",
-        "frags": "12",
-        "deaths": "11",
-        "ping": "115",
+        "name": "immortal",
+        "frags": "17",
+        "deaths": "30",
+        "ping": "71",
         "team": "0"
       },
       {
         "name": "x_TavrixEndeR_x",
-        "frags": "0",
-        "deaths": "2",
-        "ping": "209",
-        "team": "0"
-      },
-      {
-        "name": "LinuX Man",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "209",
+        "frags": "33",
+        "deaths": "28",
+        "ping": "171",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "immortal",
+        "name": "Stuxnet",
         "frags": "12",
-        "deaths": "9",
-        "ping": "77",
+        "deaths": "15",
+        "ping": "67",
+        "team": "1"
+      },
+      {
+        "name": "DON",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "90",
         "team": "1"
       }
     ],
