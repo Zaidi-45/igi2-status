@@ -1,13 +1,12 @@
 [
   {
-    "hostname": "BETA VERSION",
-    "mapname": "Sandstorm",
-    "players_count": "0/16",
-    "timeleft": "01:32",
-    "score_igi": "0",
-    "score_con": "1",
+    "hostname": "DON CLAN IGI2",
+    "status": "Offline",
+    "mapname": "-",
+    "timeleft": "--:--",
+    "score_igi": 0,
+    "score_con": 0,
     "team_igi_players": [],
-    "team_con_players": [],
-    "status": "Online"
+    "team_con_players": []
   }
 ]
