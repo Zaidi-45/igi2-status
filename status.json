@@ -1,12 +1,20 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "10:05",
+    "mapname": "Pribois villa",
+    "players_count": "1/32",
+    "timeleft": "02:04",
     "score_igi": "0",
     "score_con": "1",
-    "team_igi_players": [],
+    "team_igi_players": [
+      {
+        "name": "Bidyut Sarkar",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "293",
+        "team": "0"
+      }
+    ],
     "team_con_players": [],
     "status": "Online"
   }
