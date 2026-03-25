@@ -1,33 +1,61 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "3/32",
-    "timeleft": "06:47",
+    "mapname": "Pribois villa",
+    "players_count": "7/32",
+    "timeleft": "13:39",
     "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
         "name": "shef",
         "frags": "22",
-        "deaths": "11",
-        "ping": "110",
+        "deaths": "28",
+        "ping": "109",
+        "team": "0"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "20",
+        "deaths": "22",
+        "ping": "284",
+        "team": "0"
+      },
+      {
+        "name": "immortal",
+        "frags": "5",
+        "deaths": "8",
+        "ping": "69",
+        "team": "0"
+      },
+      {
+        "name": "mobile nikal karway",
+        "frags": "4",
+        "deaths": "1",
+        "ping": "89",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "Khalid",
-        "frags": "9",
-        "deaths": "23",
-        "ping": "69",
+        "frags": "21",
+        "deaths": "31",
+        "ping": "72",
         "team": "1"
       },
       {
-        "name": "golu beta masti nhi",
-        "frags": "2",
+        "name": "Mr.X",
+        "frags": "8",
+        "deaths": "7",
+        "ping": "80",
+        "team": "1"
+      },
+      {
+        "name": "AssaultSharpShooter",
+        "frags": "0",
         "deaths": "2",
-        "ping": "81",
+        "ping": "75",
         "team": "1"
       }
     ],
