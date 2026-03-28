@@ -1,54 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory",
-    "players_count": "6/32",
-    "timeleft": "10:56",
+    "mapname": "Sandstorm",
+    "players_count": "5/32",
+    "timeleft": "09:20",
     "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "shef",
-        "frags": "35",
-        "deaths": "23",
-        "ping": "122",
-        "team": "0"
-      },
-      {
         "name": "DON",
-        "frags": "32",
-        "deaths": "24",
-        "ping": "74",
+        "frags": "17",
+        "deaths": "20",
+        "ping": "80",
         "team": "0"
       },
       {
-        "name": "Khalid",
-        "frags": "8",
-        "deaths": "3",
-        "ping": "75",
+        "name": "shef",
+        "frags": "21",
+        "deaths": "12",
+        "ping": "131",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "AssaultSharpShooter",
-        "frags": "8",
-        "deaths": "17",
-        "ping": "81",
+        "frags": "12",
+        "deaths": "14",
+        "ping": "74",
         "team": "1"
       },
       {
-        "name": "Cow Is Impressed",
-        "frags": "19",
-        "deaths": "33",
-        "ping": "63",
+        "name": "Khalid",
+        "frags": "12",
+        "deaths": "12",
+        "ping": "79",
         "team": "1"
       },
       {
-        "name": "LinuX Man",
-        "frags": "3",
-        "deaths": "5",
-        "ping": "251",
+        "name": "immortal",
+        "frags": "5",
+        "deaths": "15",
+        "ping": "65",
         "team": "1"
       }
     ],
