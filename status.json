@@ -1,13 +1,36 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sunny Chinese Temple",
-    "players_count": "0/32",
-    "timeleft": "10:21",
+    "mapname": "The Airfield 2026",
+    "players_count": "3/32",
+    "timeleft": "02:44",
     "score_igi": "0",
-    "score_con": "1",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "DON",
+        "frags": "4",
+        "deaths": "9",
+        "ping": "88",
+        "team": "0"
+      },
+      {
+        "name": "shef",
+        "frags": "2",
+        "deaths": "4",
+        "ping": "111",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "AssaultSharpShooter",
+        "frags": "3",
+        "deaths": "6",
+        "ping": "73",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
