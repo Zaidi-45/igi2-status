@@ -1,13 +1,29 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory",
-    "players_count": "0/32",
-    "timeleft": "01:25",
+    "mapname": "Sandstorm",
+    "players_count": "2/32",
+    "timeleft": "06:03",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "1",
+    "team_igi_players": [
+      {
+        "name": "shef",
+        "frags": "16",
+        "deaths": "18",
+        "ping": "114",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "KHALID",
+        "frags": "5",
+        "deaths": "6",
+        "ping": "67",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
