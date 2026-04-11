@@ -1,61 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "7/32",
-    "timeleft": "09:36",
-    "score_igi": "0",
-    "score_con": "2",
+    "mapname": "Radar Base",
+    "players_count": "5/32",
+    "timeleft": "06:59",
+    "score_igi": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Prince",
-        "frags": "1",
-        "deaths": "16",
-        "ping": "105",
-        "team": "0"
-      },
-      {
         "name": "IGI 2 MPA Launcher",
-        "frags": "5",
-        "deaths": "26",
-        "ping": "57",
+        "frags": "4",
+        "deaths": "16",
+        "ping": "56",
         "team": "0"
       },
       {
-        "name": "IGI ",
-        "frags": "18",
-        "deaths": "11",
-        "ping": "274",
+        "name": "Hasnain_Haider",
+        "frags": "6",
+        "deaths": "13",
+        "ping": "65",
         "team": "0"
       },
       {
         "name": "Khalid",
-        "frags": "22",
+        "frags": "14",
         "deaths": "9",
-        "ping": "61",
+        "ping": "62",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Hasnain_Haider",
-        "frags": "9",
-        "deaths": "18",
-        "ping": "98",
-        "team": "1"
-      },
-      {
-        "name": "unknown person",
-        "frags": "15",
-        "deaths": "21",
-        "ping": "81",
-        "team": "1"
-      },
-      {
         "name": "Marky",
-        "frags": "13",
-        "deaths": "7",
-        "ping": "106",
+        "frags": "12",
+        "deaths": "9",
+        "ping": "113",
+        "team": "1"
+      },
+      {
+        "name": "1TS_G0H4N_F4N",
+        "frags": "3",
+        "deaths": "4",
+        "ping": "98",
         "team": "1"
       }
     ],
