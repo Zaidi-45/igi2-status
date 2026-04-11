@@ -1,64 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "7/32",
-    "timeleft": "09:23",
-    "score_igi": "1",
-    "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "shef",
-        "frags": "22",
-        "deaths": "32",
-        "ping": "142",
-        "team": "0"
-      },
-      {
-        "name": "DON",
-        "frags": "27",
-        "deaths": "47",
-        "ping": "69",
-        "team": "0"
-      },
-      {
-        "name": "1TS_G0H4N_F4N",
-        "frags": "18",
-        "deaths": "40",
-        "ping": "43",
-        "team": "0"
-      },
-      {
-        "name": "immortal",
-        "frags": "16",
-        "deaths": "37",
-        "ping": "60",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Mr.X",
-        "frags": "71",
-        "deaths": "36",
-        "ping": "62",
-        "team": "1"
-      },
-      {
-        "name": "TAMERLAN",
-        "frags": "23",
-        "deaths": "9",
-        "ping": "185",
-        "team": "1"
-      },
-      {
-        "name": "Khalid",
-        "frags": "0",
-        "deaths": "2",
-        "ping": "59",
-        "team": "1"
-      }
-    ],
+    "mapname": "Sandstorm",
+    "players_count": "0/32",
+    "timeleft": "03:19",
+    "score_igi": "2",
+    "score_con": "0",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
