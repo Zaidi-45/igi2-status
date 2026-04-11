@@ -1,13 +1,64 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "MISSION OVER",
-    "score_igi": "1",
-    "score_con": "1",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "mapname": "Pribois villa",
+    "players_count": "7/32",
+    "timeleft": "09:36",
+    "score_igi": "0",
+    "score_con": "2",
+    "team_igi_players": [
+      {
+        "name": "Prince",
+        "frags": "1",
+        "deaths": "16",
+        "ping": "105",
+        "team": "0"
+      },
+      {
+        "name": "IGI 2 MPA Launcher",
+        "frags": "5",
+        "deaths": "26",
+        "ping": "57",
+        "team": "0"
+      },
+      {
+        "name": "IGI ",
+        "frags": "18",
+        "deaths": "11",
+        "ping": "274",
+        "team": "0"
+      },
+      {
+        "name": "Khalid",
+        "frags": "22",
+        "deaths": "9",
+        "ping": "61",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Hasnain_Haider",
+        "frags": "9",
+        "deaths": "18",
+        "ping": "98",
+        "team": "1"
+      },
+      {
+        "name": "unknown person",
+        "frags": "15",
+        "deaths": "21",
+        "ping": "81",
+        "team": "1"
+      },
+      {
+        "name": "Marky",
+        "frags": "13",
+        "deaths": "7",
+        "ping": "106",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
