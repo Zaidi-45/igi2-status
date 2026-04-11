@@ -2,49 +2,12 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
-    "players_count": "5/32",
-    "timeleft": "11:44",
+    "players_count": "0/32",
+    "timeleft": "MISSION OVER",
     "score_igi": "0",
     "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "Marky",
-        "frags": "19",
-        "deaths": "12",
-        "ping": "111",
-        "team": "0"
-      },
-      {
-        "name": "KARA",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "163",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Hasnain_Haider",
-        "frags": "5",
-        "deaths": "10",
-        "ping": "443",
-        "team": "1"
-      },
-      {
-        "name": "Jones",
-        "frags": "10",
-        "deaths": "15",
-        "ping": "150",
-        "team": "1"
-      },
-      {
-        "name": "IGI 2 MPA Launcher",
-        "frags": "0",
-        "deaths": "5",
-        "ping": "95",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
