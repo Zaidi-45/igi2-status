@@ -1,33 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "3/32",
-    "timeleft": "02:56",
+    "mapname": "Pribois villa",
+    "players_count": "6/32",
+    "timeleft": "13:43",
     "score_igi": "0",
     "score_con": "1",
     "team_igi_players": [
       {
-        "name": "LinuX Man",
-        "frags": "9",
-        "deaths": "3",
-        "ping": "125",
+        "name": "J.delta",
+        "frags": "10",
+        "deaths": "12",
+        "ping": "68",
+        "team": "0"
+      },
+      {
+        "name": "1TS_G0H4N_F4N",
+        "frags": "5",
+        "deaths": "14",
+        "ping": "50",
+        "team": "0"
+      },
+      {
+        "name": "IGI 2 MPA Launcher",
+        "frags": "3",
+        "deaths": "11",
+        "ping": "68",
+        "team": "0"
+      },
+      {
+        "name": "KING",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "282",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "1TS_G0H4N_F4N",
-        "frags": "3",
-        "deaths": "10",
-        "ping": "67",
+        "name": "Hasnain_Haider",
+        "frags": "-1",
+        "deaths": "5",
+        "ping": "110",
         "team": "1"
       },
       {
-        "name": "Mr.X",
-        "frags": "2",
-        "deaths": "4",
-        "ping": "63",
+        "name": "Marky",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "131",
         "team": "1"
       }
     ],
