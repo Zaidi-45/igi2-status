@@ -2,46 +2,53 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "5/32",
-    "timeleft": "09:42",
+    "players_count": "6/32",
+    "timeleft": "02:59",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "2",
     "team_igi_players": [
       {
-        "name": "IGI 2 MPA Launcher",
-        "frags": "0",
-        "deaths": "6",
-        "ping": "63",
-        "team": "0"
-      },
-      {
         "name": "Hasnain_Haider",
-        "frags": "3",
-        "deaths": "7",
-        "ping": "148",
+        "frags": "16",
+        "deaths": "47",
+        "ping": "77",
         "team": "0"
       },
       {
-        "name": "KING",
-        "frags": "1",
-        "deaths": "3",
-        "ping": "200",
+        "name": "Wild Hunter",
+        "frags": "9",
+        "deaths": "16",
+        "ping": "84",
+        "team": "0"
+      },
+      {
+        "name": "Old Man",
+        "frags": "18",
+        "deaths": "6",
+        "ping": "30",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "Marky",
-        "frags": "9",
-        "deaths": "1",
-        "ping": "99",
+        "frags": "57",
+        "deaths": "16",
+        "ping": "110",
         "team": "1"
       },
       {
-        "name": "1TS_G0H4N_F4N",
-        "frags": "6",
-        "deaths": "5",
-        "ping": "93",
+        "name": "Jones",
+        "frags": "26",
+        "deaths": "11",
+        "ping": "141",
+        "team": "1"
+      },
+      {
+        "name": "IGI 2 MPA Launcher",
+        "frags": "2",
+        "deaths": "16",
+        "ping": "56",
         "team": "1"
       }
     ],
