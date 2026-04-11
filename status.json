@@ -1,47 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Radar Base",
+    "mapname": "Sandstorm",
     "players_count": "5/32",
-    "timeleft": "06:59",
-    "score_igi": "1",
+    "timeleft": "09:42",
+    "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
         "name": "IGI 2 MPA Launcher",
-        "frags": "4",
-        "deaths": "16",
-        "ping": "56",
+        "frags": "0",
+        "deaths": "6",
+        "ping": "63",
         "team": "0"
       },
       {
         "name": "Hasnain_Haider",
-        "frags": "6",
-        "deaths": "13",
-        "ping": "65",
+        "frags": "3",
+        "deaths": "7",
+        "ping": "148",
         "team": "0"
       },
       {
-        "name": "Khalid",
-        "frags": "14",
-        "deaths": "9",
-        "ping": "62",
+        "name": "KING",
+        "frags": "1",
+        "deaths": "3",
+        "ping": "200",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "Marky",
-        "frags": "12",
-        "deaths": "9",
-        "ping": "113",
+        "frags": "9",
+        "deaths": "1",
+        "ping": "99",
         "team": "1"
       },
       {
         "name": "1TS_G0H4N_F4N",
-        "frags": "3",
-        "deaths": "4",
-        "ping": "98",
+        "frags": "6",
+        "deaths": "5",
+        "ping": "93",
         "team": "1"
       }
     ],
