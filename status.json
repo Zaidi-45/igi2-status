@@ -3,59 +3,59 @@
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
     "players_count": "7/32",
-    "timeleft": "08:39",
-    "score_igi": "0",
+    "timeleft": "09:23",
+    "score_igi": "1",
     "score_con": "1",
     "team_igi_players": [
       {
         "name": "shef",
-        "frags": "8",
-        "deaths": "7",
-        "ping": "137",
+        "frags": "22",
+        "deaths": "32",
+        "ping": "142",
         "team": "0"
       },
       {
         "name": "DON",
-        "frags": "16",
-        "deaths": "19",
-        "ping": "64",
+        "frags": "27",
+        "deaths": "47",
+        "ping": "69",
         "team": "0"
       },
       {
         "name": "1TS_G0H4N_F4N",
-        "frags": "5",
-        "deaths": "24",
-        "ping": "55",
+        "frags": "18",
+        "deaths": "40",
+        "ping": "43",
         "team": "0"
       },
       {
-        "name": "TAMERLAN",
-        "frags": "9",
-        "deaths": "6",
-        "ping": "190",
+        "name": "immortal",
+        "frags": "16",
+        "deaths": "37",
+        "ping": "60",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "Mr.X",
-        "frags": "24",
-        "deaths": "12",
-        "ping": "63",
+        "frags": "71",
+        "deaths": "36",
+        "ping": "62",
+        "team": "1"
+      },
+      {
+        "name": "TAMERLAN",
+        "frags": "23",
+        "deaths": "9",
+        "ping": "185",
         "team": "1"
       },
       {
         "name": "Khalid",
-        "frags": "19",
-        "deaths": "17",
-        "ping": "46",
-        "team": "1"
-      },
-      {
-        "name": "immortal",
-        "frags": "7",
-        "deaths": "14",
-        "ping": "62",
+        "frags": "0",
+        "deaths": "2",
+        "ping": "59",
         "team": "1"
       }
     ],
