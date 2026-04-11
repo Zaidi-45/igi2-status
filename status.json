@@ -2,20 +2,42 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
-    "players_count": "1/32",
-    "timeleft": "12:56",
-    "score_igi": "0",
-    "score_con": "0",
+    "players_count": "4/32",
+    "timeleft": "14:47",
+    "score_igi": "1",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "unknown person",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "128",
+        "name": "Khalid",
+        "frags": "19",
+        "deaths": "20",
+        "ping": "54",
         "team": "0"
       }
     ],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "unknown person",
+        "frags": "11",
+        "deaths": "14",
+        "ping": "100",
+        "team": "1"
+      },
+      {
+        "name": "AssaultSharpShooter",
+        "frags": "19",
+        "deaths": "13",
+        "ping": "54",
+        "team": "1"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "126",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
