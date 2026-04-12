@@ -1,12 +1,50 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "status": "Offline",
-    "mapname": "-",
-    "timeleft": "--:--",
-    "score_igi": 0,
-    "score_con": 0,
-    "team_igi_players": [],
-    "team_con_players": []
+    "mapname": "Sandstorm",
+    "players_count": "5/32",
+    "timeleft": "11:35",
+    "score_igi": "0",
+    "score_con": "2",
+    "team_igi_players": [
+      {
+        "name": "unknown person",
+        "frags": "3",
+        "deaths": "5",
+        "ping": "90",
+        "team": "0"
+      },
+      {
+        "name": "Mr.X",
+        "frags": "1",
+        "deaths": "2",
+        "ping": "63",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Old Man",
+        "frags": "3",
+        "deaths": "3",
+        "ping": "32",
+        "team": "1"
+      },
+      {
+        "name": "Khalid",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "52",
+        "team": "1"
+      },
+      {
+        "name": "Hasnain_Haider",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "186",
+        "team": "1"
+      }
+    ],
+    "status": "Online"
   }
 ]
