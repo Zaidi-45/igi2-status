@@ -2,70 +2,12 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "8/32",
-    "timeleft": "14:46",
-    "score_igi": "1",
+    "players_count": "0/32",
+    "timeleft": "07:00",
+    "score_igi": "0",
     "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "LinuX Man",
-        "frags": "10",
-        "deaths": "11",
-        "ping": "267",
-        "team": "0"
-      },
-      {
-        "name": "unknown person",
-        "frags": "3",
-        "deaths": "11",
-        "ping": "92",
-        "team": "0"
-      },
-      {
-        "name": "Mr.X",
-        "frags": "12",
-        "deaths": "7",
-        "ping": "64",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "5",
-        "deaths": "8",
-        "ping": "58",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": ":)",
-        "frags": "18",
-        "deaths": "6",
-        "ping": "47",
-        "team": "1"
-      },
-      {
-        "name": "Chachi Anya",
-        "frags": "8",
-        "deaths": "8",
-        "ping": "67",
-        "team": "1"
-      },
-      {
-        "name": "KARA",
-        "frags": "0",
-        "deaths": "5",
-        "ping": "169",
-        "team": "1"
-      },
-      {
-        "name": "AssaultSharpShooter",
-        "frags": "4",
-        "deaths": "2",
-        "ping": "63",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
