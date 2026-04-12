@@ -1,43 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "4/32",
-    "timeleft": "05:20",
+    "mapname": "Pribois villa",
+    "players_count": "1/32",
+    "timeleft": "12:25",
     "score_igi": "0",
     "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "unknown person",
-        "frags": "5",
-        "deaths": "10",
-        "ping": "80",
-        "team": "0"
-      },
-      {
-        "name": "Prince",
-        "frags": "1",
-        "deaths": "5",
-        "ping": "460",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "1TS_W1LD_BR0",
-        "frags": "8",
-        "deaths": "2",
-        "ping": "519",
-        "team": "1"
-      },
-      {
-        "name": "Jones",
-        "frags": "7",
-        "deaths": "5",
-        "ping": "71",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
