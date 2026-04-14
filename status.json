@@ -2,35 +2,12 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "3/32",
-    "timeleft": "01:28",
+    "players_count": "0/32",
+    "timeleft": "08:22",
     "score_igi": "0",
-    "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "unknown person",
-        "frags": "6",
-        "deaths": "12",
-        "ping": "243",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Jones",
-        "frags": "10",
-        "deaths": "3",
-        "ping": "202",
-        "team": "1"
-      },
-      {
-        "name": "Barry McCaulkiner",
-        "frags": "1",
-        "deaths": "3",
-        "ping": "347",
-        "team": "1"
-      }
-    ],
+    "score_con": "0",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
