@@ -1,54 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
+    "mapname": "Pribois villa",
     "players_count": "6/32",
-    "timeleft": "09:07",
+    "timeleft": "01:08",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
         "name": "Sito Rodriguez",
-        "frags": "12",
-        "deaths": "9",
-        "ping": "40",
+        "frags": "16",
+        "deaths": "24",
+        "ping": "41",
         "team": "0"
       },
       {
-        "name": "LinuX Man",
-        "frags": "8",
-        "deaths": "6",
-        "ping": "193",
+        "name": "shadowcamper",
+        "frags": "20",
+        "deaths": "17",
+        "ping": "201",
         "team": "0"
       },
       {
-        "name": "Prince",
+        "name": "Khalid",
         "frags": "0",
-        "deaths": "1",
-        "ping": "86",
+        "deaths": "3",
+        "ping": "47",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Khalid",
-        "frags": "6",
-        "deaths": "6",
-        "ping": "57",
+        "name": "Abdullah",
+        "frags": "26",
+        "deaths": "13",
+        "ping": "36",
         "team": "1"
       },
       {
-        "name": "Hasnain_Haider",
+        "name": "MPA Lover",
+        "frags": "10",
+        "deaths": "18",
+        "ping": "46",
+        "team": "1"
+      },
+      {
+        "name": "TAMERLAN",
         "frags": "1",
-        "deaths": "9",
-        "ping": "80",
-        "team": "1"
-      },
-      {
-        "name": "shef",
-        "frags": "8",
-        "deaths": "6",
-        "ping": "123",
+        "deaths": "1",
+        "ping": "198",
         "team": "1"
       }
     ],
