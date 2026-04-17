@@ -1,54 +1,33 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "6/32",
-    "timeleft": "01:08",
-    "score_igi": "0",
+    "mapname": "Sandstorm",
+    "players_count": "3/32",
+    "timeleft": "01:19",
+    "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Sito Rodriguez",
-        "frags": "16",
-        "deaths": "24",
-        "ping": "41",
-        "team": "0"
-      },
-      {
-        "name": "shadowcamper",
-        "frags": "20",
-        "deaths": "17",
-        "ping": "201",
-        "team": "0"
-      },
-      {
-        "name": "Khalid",
-        "frags": "0",
-        "deaths": "3",
-        "ping": "47",
+        "name": "Aunty_ANYA :)",
+        "frags": "12",
+        "deaths": "6",
+        "ping": "61",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Abdullah",
-        "frags": "26",
-        "deaths": "13",
-        "ping": "36",
+        "name": "IGI 2 MPA Launcher",
+        "frags": "3",
+        "deaths": "14",
+        "ping": "65",
         "team": "1"
       },
       {
-        "name": "MPA Lover",
-        "frags": "10",
-        "deaths": "18",
-        "ping": "46",
-        "team": "1"
-      },
-      {
-        "name": "TAMERLAN",
-        "frags": "1",
-        "deaths": "1",
-        "ping": "198",
+        "name": "!TS_G0H4N_F4N",
+        "frags": "5",
+        "deaths": "8",
+        "ping": "55",
         "team": "1"
       }
     ],
