@@ -2,19 +2,11 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Airfield 2026",
-    "players_count": "1/32",
-    "timeleft": "04:01",
+    "players_count": "0/32",
+    "timeleft": "11:58",
     "score_igi": "4",
-    "score_con": "9",
-    "team_igi_players": [
-      {
-        "name": "Khalid",
-        "frags": "48",
-        "deaths": "91",
-        "ping": "55",
-        "team": "0"
-      }
-    ],
+    "score_con": "13",
+    "team_igi_players": [],
     "team_con_players": [],
     "status": "Online"
   }
