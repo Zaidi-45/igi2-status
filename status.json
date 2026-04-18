@@ -2,12 +2,70 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Airfield 2026",
-    "players_count": "0/32",
-    "timeleft": "08:04",
-    "score_igi": "7",
-    "score_con": "0",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "players_count": "8/32",
+    "timeleft": "12:42",
+    "score_igi": "8",
+    "score_con": "2",
+    "team_igi_players": [
+      {
+        "name": "1TS_G0H4N_F4N",
+        "frags": "3",
+        "deaths": "29",
+        "ping": "107",
+        "team": "0"
+      },
+      {
+        "name": "Mr Luffie",
+        "frags": "4",
+        "deaths": "2",
+        "ping": "166",
+        "team": "0"
+      },
+      {
+        "name": "Jones",
+        "frags": "3",
+        "deaths": "5",
+        "ping": "137",
+        "team": "0"
+      },
+      {
+        "name": "Jones",
+        "frags": "3",
+        "deaths": "6",
+        "ping": "76",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Johny Sins",
+        "frags": "26",
+        "deaths": "6",
+        "ping": "31",
+        "team": "1"
+      },
+      {
+        "name": "KARA",
+        "frags": "2",
+        "deaths": "3",
+        "ping": "156",
+        "team": "1"
+      },
+      {
+        "name": "Hasnain_Haider",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "124",
+        "team": "1"
+      },
+      {
+        "name": "uknown person",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "0",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
