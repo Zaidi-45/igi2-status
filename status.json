@@ -2,67 +2,60 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Airfield 2026",
-    "players_count": "8/32",
-    "timeleft": "12:42",
-    "score_igi": "8",
-    "score_con": "2",
+    "players_count": "7/32",
+    "timeleft": "04:36",
+    "score_igi": "10",
+    "score_con": "3",
     "team_igi_players": [
       {
-        "name": "1TS_G0H4N_F4N",
-        "frags": "3",
-        "deaths": "29",
-        "ping": "107",
-        "team": "0"
-      },
-      {
-        "name": "Mr Luffie",
-        "frags": "4",
-        "deaths": "2",
-        "ping": "166",
-        "team": "0"
-      },
-      {
         "name": "Jones",
-        "frags": "3",
-        "deaths": "5",
-        "ping": "137",
+        "frags": "7",
+        "deaths": "10",
+        "ping": "51",
         "team": "0"
       },
       {
-        "name": "Jones",
-        "frags": "3",
-        "deaths": "6",
-        "ping": "76",
+        "name": "uknown person",
+        "frags": "8",
+        "deaths": "4",
+        "ping": "96",
+        "team": "0"
+      },
+      {
+        "name": "immortal",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "102",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Johny Sins",
-        "frags": "26",
-        "deaths": "6",
-        "ping": "31",
-        "team": "1"
-      },
-      {
         "name": "KARA",
-        "frags": "2",
-        "deaths": "3",
-        "ping": "156",
+        "frags": "5",
+        "deaths": "22",
+        "ping": "158",
         "team": "1"
       },
       {
         "name": "Hasnain_Haider",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "124",
+        "frags": "22",
+        "deaths": "24",
+        "ping": "166",
         "team": "1"
       },
       {
-        "name": "uknown person",
+        "name": "Jones",
+        "frags": "3",
+        "deaths": "42",
+        "ping": "106",
+        "team": "1"
+      },
+      {
+        "name": "LinuX Man",
         "frags": "0",
         "deaths": "0",
-        "ping": "0",
+        "ping": "149",
         "team": "1"
       }
     ],
