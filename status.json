@@ -1,13 +1,50 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Airfield 2026",
-    "players_count": "0/32",
-    "timeleft": "07:42",
+    "mapname": "Sandstorm",
+    "players_count": "5/32",
+    "timeleft": "09:43",
     "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "1TS_G0H4N_F4N",
+        "frags": "2",
+        "deaths": "1",
+        "ping": "51",
+        "team": "0"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "2",
+        "deaths": "5",
+        "ping": "622",
+        "team": "0"
+      },
+      {
+        "name": "KARA",
+        "frags": "1",
+        "deaths": "2",
+        "ping": "174",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "uknown person",
+        "frags": "4",
+        "deaths": "6",
+        "ping": "135",
+        "team": "1"
+      },
+      {
+        "name": "Jones",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "60",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
