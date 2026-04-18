@@ -2,53 +2,39 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
-    "players_count": "6/32",
-    "timeleft": "05:09",
-    "score_igi": "0",
-    "score_con": "0",
+    "players_count": "4/32",
+    "timeleft": "04:16",
+    "score_igi": "2",
+    "score_con": "3",
     "team_igi_players": [
       {
-        "name": "uknown person",
-        "frags": "5",
-        "deaths": "11",
+        "name": "MARS",
+        "frags": "51",
+        "deaths": "42",
+        "ping": "77",
+        "team": "0"
+      },
+      {
+        "name": "Mr.X",
+        "frags": "43",
+        "deaths": "25",
+        "ping": "60",
+        "team": "0"
+      },
+      {
+        "name": "<mac>",
+        "frags": "4",
+        "deaths": "6",
         "ping": "88",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "5",
-        "deaths": "13",
-        "ping": "122",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "6",
-        "deaths": "7",
-        "ping": "65",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "immortal",
-        "frags": "8",
-        "deaths": "15",
-        "ping": "54",
-        "team": "1"
-      },
-      {
-        "name": "TAMERLAN",
-        "frags": "6",
-        "deaths": "0",
-        "ping": "187",
-        "team": "1"
-      },
-      {
-        "name": "LinuX Man",
-        "frags": "13",
-        "deaths": "5",
-        "ping": "147",
+        "name": "RubalTheLord",
+        "frags": "30",
+        "deaths": "25",
+        "ping": "39",
         "team": "1"
       }
     ],
