@@ -2,12 +2,42 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Airfield 2026",
-    "players_count": "0/32",
-    "timeleft": "08:46",
-    "score_igi": "4",
-    "score_con": "38",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "players_count": "4/32",
+    "timeleft": "12:17",
+    "score_igi": "7",
+    "score_con": "42",
+    "team_igi_players": [
+      {
+        "name": "KARA",
+        "frags": "5",
+        "deaths": "34",
+        "ping": "170",
+        "team": "0"
+      },
+      {
+        "name": "uknown person",
+        "frags": "19",
+        "deaths": "29",
+        "ping": "95",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Mr.X",
+        "frags": "53",
+        "deaths": "30",
+        "ping": "66",
+        "team": "1"
+      },
+      {
+        "name": "Hasnain_Haider",
+        "frags": "5",
+        "deaths": "10",
+        "ping": "158",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
