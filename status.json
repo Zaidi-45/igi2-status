@@ -1,61 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Airfield 2026",
-    "players_count": "7/32",
-    "timeleft": "04:36",
-    "score_igi": "10",
-    "score_con": "3",
+    "mapname": "Pribois villa",
+    "players_count": "6/32",
+    "timeleft": "05:09",
+    "score_igi": "0",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Jones",
-        "frags": "7",
-        "deaths": "10",
-        "ping": "51",
-        "team": "0"
-      },
-      {
         "name": "uknown person",
-        "frags": "8",
-        "deaths": "4",
-        "ping": "96",
+        "frags": "5",
+        "deaths": "11",
+        "ping": "88",
         "team": "0"
       },
       {
-        "name": "immortal",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "102",
+        "name": "Jones",
+        "frags": "5",
+        "deaths": "13",
+        "ping": "122",
+        "team": "0"
+      },
+      {
+        "name": "Jones",
+        "frags": "6",
+        "deaths": "7",
+        "ping": "65",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "KARA",
-        "frags": "5",
-        "deaths": "22",
-        "ping": "158",
+        "name": "immortal",
+        "frags": "8",
+        "deaths": "15",
+        "ping": "54",
         "team": "1"
       },
       {
-        "name": "Hasnain_Haider",
-        "frags": "22",
-        "deaths": "24",
-        "ping": "166",
-        "team": "1"
-      },
-      {
-        "name": "Jones",
-        "frags": "3",
-        "deaths": "42",
-        "ping": "106",
+        "name": "TAMERLAN",
+        "frags": "6",
+        "deaths": "0",
+        "ping": "187",
         "team": "1"
       },
       {
         "name": "LinuX Man",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "149",
+        "frags": "13",
+        "deaths": "5",
+        "ping": "147",
         "team": "1"
       }
     ],
