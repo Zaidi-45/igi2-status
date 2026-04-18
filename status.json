@@ -1,36 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Airfield 2026",
-    "players_count": "3/32",
-    "timeleft": "03:28",
+    "mapname": "Pribois villa",
+    "players_count": "0/32",
+    "timeleft": "06:49",
     "score_igi": "0",
     "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "Formula",
-        "frags": "2",
-        "deaths": "5",
-        "ping": "37",
-        "team": "0"
-      },
-      {
-        "name": "TAMERLAN",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "180",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Raju Mistri",
-        "frags": "3",
-        "deaths": "2",
-        "ping": "74",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
