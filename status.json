@@ -1,40 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "4/32",
-    "timeleft": "04:22",
-    "score_igi": "1",
+    "mapname": "Sandstorm",
+    "players_count": "5/32",
+    "timeleft": "05:01",
+    "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Khalid_GHOST",
-        "frags": "2",
-        "deaths": "5",
-        "ping": "53",
+        "name": "shef",
+        "frags": "7",
+        "deaths": "6",
+        "ping": "170",
         "team": "0"
       },
       {
-        "name": "Wild Hunter 3.0",
-        "frags": "10",
-        "deaths": "14",
-        "ping": "55",
-        "team": "0"
-      },
-      {
-        "name": "Prince",
+        "name": "khalidchatGPT",
         "frags": "0",
-        "deaths": "1",
-        "ping": "1395",
+        "deaths": "0",
+        "ping": "0",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
+        "name": "Khalid_GHOST",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "60",
+        "team": "1"
+      },
+      {
+        "name": "Wild Hunter 3.0",
+        "frags": "6",
+        "deaths": "9",
+        "ping": "56",
+        "team": "1"
+      },
+      {
         "name": "immortal",
-        "frags": "19",
-        "deaths": "14",
-        "ping": "55",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "62",
         "team": "1"
       }
     ],
