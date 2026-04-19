@@ -1,68 +1,40 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "8/32",
-    "timeleft": "09:38",
+    "mapname": "Sandstorm",
+    "players_count": "4/32",
+    "timeleft": "07:03",
     "score_igi": "0",
-    "score_con": "2",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "Khalid_GHOST",
-        "frags": "5",
-        "deaths": "7",
-        "ping": "61",
+        "name": "TAMERLAN",
+        "frags": "7",
+        "deaths": "12",
+        "ping": "200",
         "team": "0"
       },
       {
         "name": "Sito Rodriguez",
-        "frags": "38",
-        "deaths": "27",
-        "ping": "59",
-        "team": "0"
-      },
-      {
-        "name": "DON",
-        "frags": "19",
-        "deaths": "29",
-        "ping": "57",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "2",
-        "deaths": "3",
-        "ping": "69",
+        "frags": "7",
+        "deaths": "9",
+        "ping": "39",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "IGI 2 MPA Launcher ",
-        "frags": "12",
-        "deaths": "18",
-        "ping": "61",
+        "name": "Jones",
+        "frags": "15",
+        "deaths": "15",
+        "ping": "77",
         "team": "1"
       },
       {
-        "name": "immortal",
-        "frags": "24",
-        "deaths": "26",
-        "ping": "62",
-        "team": "1"
-      },
-      {
-        "name": "shef",
-        "frags": "21",
-        "deaths": "28",
-        "ping": "159",
-        "team": "1"
-      },
-      {
-        "name": "Mr.X",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "63",
+        "name": "Old Man",
+        "frags": "15",
+        "deaths": "10",
+        "ping": "37",
         "team": "1"
       }
     ],
