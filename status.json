@@ -2,11 +2,19 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "LOADING",
+    "players_count": "1/32",
+    "timeleft": "MISSION OVER",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [],
+    "score_con": "2",
+    "team_igi_players": [
+      {
+        "name": "Khalid_GHOST",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "80",
+        "team": "0"
+      }
+    ],
     "team_con_players": [],
     "status": "Online"
   }
