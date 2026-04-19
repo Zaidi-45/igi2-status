@@ -1,40 +1,68 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "4/32",
-    "timeleft": "05:11",
-    "score_igi": "0",
-    "score_con": "1",
+    "mapname": "Airfield 2026",
+    "players_count": "8/32",
+    "timeleft": "09:28",
+    "score_igi": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Jones",
-        "frags": "18",
-        "deaths": "19",
-        "ping": "59",
+        "name": "IGI 2 MPA Launcher",
+        "frags": "9",
+        "deaths": "2",
+        "ping": "181",
         "team": "0"
       },
       {
-        "name": "<mac>",
+        "name": "Jones",
+        "frags": "10",
+        "deaths": "18",
+        "ping": "60",
+        "team": "0"
+      },
+      {
+        "name": "Leon",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "43",
+        "team": "0"
+      },
+      {
+        "name": "uknown person",
         "frags": "6",
-        "deaths": "2",
-        "ping": "232",
+        "deaths": "5",
+        "ping": "118",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Khalid_GHOST",
-        "frags": "9",
-        "deaths": "11",
-        "ping": "62",
+        "name": "Jones",
+        "frags": "13",
+        "deaths": "23",
+        "ping": "70",
         "team": "1"
       },
       {
-        "name": "Ext Devil",
-        "frags": "9",
-        "deaths": "4",
-        "ping": "113",
+        "name": "Khalid_GHOST",
+        "frags": "1",
+        "deaths": "2",
+        "ping": "53",
+        "team": "1"
+      },
+      {
+        "name": "Mr.X",
+        "frags": "8",
+        "deaths": "8",
+        "ping": "63",
+        "team": "1"
+      },
+      {
+        "name": "Jones",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "53",
         "team": "1"
       }
     ],
