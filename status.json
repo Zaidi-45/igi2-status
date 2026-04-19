@@ -1,47 +1,61 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Airfield 2026",
-    "players_count": "5/32",
-    "timeleft": "14:04",
+    "mapname": "Sandstorm",
+    "players_count": "7/32",
+    "timeleft": "14:47",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "Jones",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "64",
+        "name": "AssaultSharpShooter",
+        "frags": "18",
+        "deaths": "25",
+        "ping": "50",
         "team": "0"
       },
       {
-        "name": "Mr.X",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "59",
+        "name": "Khalid_GHOST",
+        "frags": "7",
+        "deaths": "7",
+        "ping": "55",
+        "team": "0"
+      },
+      {
+        "name": "Jones",
+        "frags": "4",
+        "deaths": "29",
+        "ping": "63",
+        "team": "0"
+      },
+      {
+        "name": "immortal",
+        "frags": "9",
+        "deaths": "16",
+        "ping": "72",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Khalid_GHOST",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "61",
+        "name": "<mac>",
+        "frags": "14",
+        "deaths": "16",
+        "ping": "165",
         "team": "1"
       },
       {
-        "name": "LinuX Man",
-        "frags": "1",
-        "deaths": "0",
-        "ping": "125",
+        "name": "shef",
+        "frags": "21",
+        "deaths": "16",
+        "ping": "172",
         "team": "1"
       },
       {
-        "name": "AssaultSharpShooter",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "66",
+        "name": "Mr.X",
+        "frags": "31",
+        "deaths": "14",
+        "ping": "65",
         "team": "1"
       }
     ],
