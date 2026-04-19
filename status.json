@@ -2,39 +2,25 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "4/32",
-    "timeleft": "07:03",
+    "players_count": "2/32",
+    "timeleft": "10:10",
     "score_igi": "0",
-    "score_con": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "TAMERLAN",
-        "frags": "7",
-        "deaths": "12",
-        "ping": "200",
-        "team": "0"
-      },
-      {
-        "name": "Sito Rodriguez",
-        "frags": "7",
-        "deaths": "9",
-        "ping": "39",
+        "name": "LinuX Man",
+        "frags": "4",
+        "deaths": "1",
+        "ping": "221",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Jones",
-        "frags": "15",
-        "deaths": "15",
-        "ping": "77",
-        "team": "1"
-      },
-      {
-        "name": "Old Man",
-        "frags": "15",
-        "deaths": "10",
-        "ping": "37",
+        "name": "KARA",
+        "frags": "0",
+        "deaths": "4",
+        "ping": "218",
         "team": "1"
       }
     ],
