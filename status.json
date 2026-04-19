@@ -1,17 +1,17 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
+    "mapname": "Airfield 2026",
     "players_count": "1/32",
-    "timeleft": "MISSION OVER",
+    "timeleft": "07:45",
     "score_igi": "0",
-    "score_con": "2",
+    "score_con": "0",
     "team_igi_players": [
       {
         "name": "Khalid_GHOST",
         "frags": "0",
         "deaths": "0",
-        "ping": "80",
+        "ping": "50",
         "team": "0"
       }
     ],
