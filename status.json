@@ -1,40 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "4/32",
-    "timeleft": "01:53",
+    "mapname": "Airfield 2026",
+    "players_count": "5/32",
+    "timeleft": "14:04",
     "score_igi": "0",
-    "score_con": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
         "name": "Jones",
-        "frags": "8",
-        "deaths": "8",
-        "ping": "72",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "64",
         "team": "0"
       },
       {
-        "name": "KARA",
-        "frags": "3",
-        "deaths": "4",
-        "ping": "159",
+        "name": "Mr.X",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "59",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "ZEISS",
-        "frags": "4",
-        "deaths": "8",
-        "ping": "129",
+        "name": "Khalid_GHOST",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "61",
         "team": "1"
       },
       {
-        "name": "Khalid_GHOST",
-        "frags": "3",
-        "deaths": "3",
-        "ping": "60",
+        "name": "LinuX Man",
+        "frags": "1",
+        "deaths": "0",
+        "ping": "125",
+        "team": "1"
+      },
+      {
+        "name": "AssaultSharpShooter",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "66",
         "team": "1"
       }
     ],
