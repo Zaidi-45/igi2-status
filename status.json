@@ -1,33 +1,82 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "3/32",
-    "timeleft": "05:36",
+    "mapname": "Sandstorm",
+    "players_count": "10/32",
+    "timeleft": "02:17",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
         "name": "Jones",
-        "frags": "4",
-        "deaths": "10",
-        "ping": "59",
+        "frags": "8",
+        "deaths": "13",
+        "ping": "62",
+        "team": "0"
+      },
+      {
+        "name": "DenizChalo",
+        "frags": "5",
+        "deaths": "17",
+        "ping": "129",
+        "team": "0"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "9",
+        "deaths": "21",
+        "ping": "95",
+        "team": "0"
+      },
+      {
+        "name": "KARA",
+        "frags": "3",
+        "deaths": "14",
+        "ping": "165",
         "team": "0"
       },
       {
         "name": "uknown person",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "109",
+        "frags": "7",
+        "deaths": "8",
+        "ping": "130",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Khalid_GHOST",
-        "frags": "11",
+        "name": "shef",
+        "frags": "17",
+        "deaths": "10",
+        "ping": "139",
+        "team": "1"
+      },
+      {
+        "name": "ZEISS",
+        "frags": "17",
+        "deaths": "5",
+        "ping": "124",
+        "team": "1"
+      },
+      {
+        "name": "TAMERLAN",
+        "frags": "10",
+        "deaths": "6",
+        "ping": "181",
+        "team": "1"
+      },
+      {
+        "name": "IGI 2 MPA Launcher ",
+        "frags": "9",
+        "deaths": "11",
+        "ping": "52",
+        "team": "1"
+      },
+      {
+        "name": "DON",
+        "frags": "14",
         "deaths": "7",
-        "ping": "55",
+        "ping": "65",
         "team": "1"
       }
     ],
