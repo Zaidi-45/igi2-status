@@ -1,47 +1,33 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "5/32",
-    "timeleft": "05:01",
+    "mapname": "Airfield 2026",
+    "players_count": "3/32",
+    "timeleft": "10:33",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "shef",
-        "frags": "7",
-        "deaths": "6",
-        "ping": "170",
+        "name": "Khalid_GHOST",
+        "frags": "0",
+        "deaths": "2",
+        "ping": "60",
         "team": "0"
       },
       {
-        "name": "khalidchatGPT",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "0",
+        "name": "immortal",
+        "frags": "18",
+        "deaths": "7",
+        "ping": "64",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Khalid_GHOST",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "60",
-        "team": "1"
-      },
-      {
-        "name": "Wild Hunter 3.0",
+        "name": "IGI 2 MPA Launcher ",
         "frags": "6",
-        "deaths": "9",
-        "ping": "56",
-        "team": "1"
-      },
-      {
-        "name": "immortal",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "62",
+        "deaths": "20",
+        "ping": "63",
         "team": "1"
       }
     ],
