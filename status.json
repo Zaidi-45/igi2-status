@@ -1,13 +1,43 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "0/32",
-    "timeleft": "11:07",
+    "mapname": "Sandstorm",
+    "players_count": "4/32",
+    "timeleft": "04:19",
     "score_igi": "0",
-    "score_con": "1",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "IGI 2 MPA Launcher ",
+        "frags": "7",
+        "deaths": "6",
+        "ping": "76",
+        "team": "0"
+      },
+      {
+        "name": "Trash player",
+        "frags": "2",
+        "deaths": "1",
+        "ping": "101",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Wild Hunter 20",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "48",
+        "team": "1"
+      },
+      {
+        "name": "AK-47 MASTER",
+        "frags": "7",
+        "deaths": "9",
+        "ping": "53",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
