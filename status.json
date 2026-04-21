@@ -2,12 +2,35 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "10:51",
+    "players_count": "3/32",
+    "timeleft": "08:12",
     "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "Aunty_ANYA :)",
+        "frags": "3",
+        "deaths": "5",
+        "ping": "77",
+        "team": "0"
+      },
+      {
+        "name": "IGI 2 MPA Launcher",
+        "frags": "2",
+        "deaths": "3",
+        "ping": "95",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Swat Player",
+        "frags": "7",
+        "deaths": "5",
+        "ping": "47",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
