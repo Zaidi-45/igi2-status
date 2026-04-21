@@ -1,50 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "5/32",
-    "timeleft": "12:04",
+    "mapname": "Timberland",
+    "players_count": "0/32",
+    "timeleft": "06:29",
     "score_igi": "0",
-    "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "LinuX Man",
-        "frags": "4",
-        "deaths": "2",
-        "ping": "207",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "7",
-        "deaths": "5",
-        "ping": "87",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Wild Hunter 3.0",
-        "frags": "4",
-        "deaths": "22",
-        "ping": "53",
-        "team": "1"
-      },
-      {
-        "name": "shadowcamper",
-        "frags": "1",
-        "deaths": "2",
-        "ping": "80",
-        "team": "1"
-      },
-      {
-        "name": "IGI 2 MPA Launcher",
-        "frags": "1",
-        "deaths": "3",
-        "ping": "62",
-        "team": "1"
-      }
-    ],
+    "score_con": "2",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
