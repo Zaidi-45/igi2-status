@@ -2,32 +2,46 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "3/32",
-    "timeleft": "09:21",
+    "players_count": "5/32",
+    "timeleft": "12:04",
     "score_igi": "0",
     "score_con": "1",
     "team_igi_players": [
       {
+        "name": "LinuX Man",
+        "frags": "4",
+        "deaths": "2",
+        "ping": "207",
+        "team": "0"
+      },
+      {
         "name": "Jones",
-        "frags": "11",
-        "deaths": "30",
-        "ping": "93",
+        "frags": "7",
+        "deaths": "5",
+        "ping": "87",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "Wild Hunter 3.0",
-        "frags": "9",
-        "deaths": "8",
-        "ping": "52",
+        "frags": "4",
+        "deaths": "22",
+        "ping": "53",
+        "team": "1"
+      },
+      {
+        "name": "shadowcamper",
+        "frags": "1",
+        "deaths": "2",
+        "ping": "80",
         "team": "1"
       },
       {
         "name": "IGI 2 MPA Launcher",
-        "frags": "2",
-        "deaths": "2",
-        "ping": "58",
+        "frags": "1",
+        "deaths": "3",
+        "ping": "62",
         "team": "1"
       }
     ],
