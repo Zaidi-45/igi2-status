@@ -1,21 +1,36 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "1/32",
-    "timeleft": "05:02",
+    "mapname": "Airfield 2026",
+    "players_count": "3/32",
+    "timeleft": "09:17",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "B4ST HuNTeR 2O",
+        "name": "Jones",
         "frags": "0",
-        "deaths": "0",
-        "ping": "59",
+        "deaths": "6",
+        "ping": "75",
         "team": "0"
       }
     ],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "Mr.X",
+        "frags": "6",
+        "deaths": "0",
+        "ping": "125",
+        "team": "1"
+      },
+      {
+        "name": "General Wu Xing",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "229",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
