@@ -1,33 +1,68 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Airfield 2026",
-    "players_count": "3/32",
-    "timeleft": "09:17",
-    "score_igi": "0",
-    "score_con": "1",
+    "mapname": "Pribois villa",
+    "players_count": "8/32",
+    "timeleft": "10:29",
+    "score_igi": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Jones",
-        "frags": "0",
-        "deaths": "6",
-        "ping": "75",
+        "name": "LinuX Man",
+        "frags": "15",
+        "deaths": "21",
+        "ping": "98",
+        "team": "0"
+      },
+      {
+        "name": "Dragon",
+        "frags": "9",
+        "deaths": "13",
+        "ping": "204",
+        "team": "0"
+      },
+      {
+        "name": "shadowcamper",
+        "frags": "14",
+        "deaths": "10",
+        "ping": "69",
+        "team": "0"
+      },
+      {
+        "name": "Arnold",
+        "frags": "4",
+        "deaths": "15",
+        "ping": "201",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Mr.X",
-        "frags": "6",
-        "deaths": "0",
-        "ping": "125",
+        "name": "[MPA] Red Devil",
+        "frags": "13",
+        "deaths": "15",
+        "ping": "124",
         "team": "1"
       },
       {
-        "name": "General Wu Xing",
+        "name": "Old Man",
+        "frags": "20",
+        "deaths": "20",
+        "ping": "48",
+        "team": "1"
+      },
+      {
+        "name": "Kira",
+        "frags": "9",
+        "deaths": "5",
+        "ping": "109",
+        "team": "1"
+      },
+      {
+        "name": "KARA 2017",
         "frags": "0",
         "deaths": "0",
-        "ping": "229",
+        "ping": "185",
         "team": "1"
       }
     ],
