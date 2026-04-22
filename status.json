@@ -1,36 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "3/32",
-    "timeleft": "12:40",
-    "score_igi": "2",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "B4ST HuNTeR 2O",
-        "frags": "52",
-        "deaths": "93",
-        "ping": "52",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "AK-47 MASTER",
-        "frags": "65",
-        "deaths": "35",
-        "ping": "56",
-        "team": "1"
-      },
-      {
-        "name": "Jones",
-        "frags": "1",
-        "deaths": "11",
-        "ping": "66",
-        "team": "1"
-      }
-    ],
+    "mapname": "Pribois villa",
+    "players_count": "0/32",
+    "timeleft": "13:13",
+    "score_igi": "1",
+    "score_con": "1",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
