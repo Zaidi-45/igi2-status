@@ -1,17 +1,17 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
+    "mapname": "Sandstorm",
     "players_count": "1/32",
-    "timeleft": "09:03",
-    "score_igi": "0",
+    "timeleft": "14:03",
+    "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Good Knight",
+        "name": "LinuX Man",
         "frags": "0",
-        "deaths": "0",
-        "ping": "129",
+        "deaths": "2",
+        "ping": "249",
         "team": "0"
       }
     ],
