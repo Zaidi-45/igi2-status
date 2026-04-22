@@ -1,68 +1,33 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "8/32",
-    "timeleft": "10:29",
-    "score_igi": "1",
+    "mapname": "Aim map",
+    "players_count": "3/32",
+    "timeleft": "12:40",
+    "score_igi": "2",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "LinuX Man",
-        "frags": "15",
-        "deaths": "21",
-        "ping": "98",
-        "team": "0"
-      },
-      {
-        "name": "Dragon",
-        "frags": "9",
-        "deaths": "13",
-        "ping": "204",
-        "team": "0"
-      },
-      {
-        "name": "shadowcamper",
-        "frags": "14",
-        "deaths": "10",
-        "ping": "69",
-        "team": "0"
-      },
-      {
-        "name": "Arnold",
-        "frags": "4",
-        "deaths": "15",
-        "ping": "201",
+        "name": "B4ST HuNTeR 2O",
+        "frags": "52",
+        "deaths": "93",
+        "ping": "52",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "[MPA] Red Devil",
-        "frags": "13",
-        "deaths": "15",
-        "ping": "124",
+        "name": "AK-47 MASTER",
+        "frags": "65",
+        "deaths": "35",
+        "ping": "56",
         "team": "1"
       },
       {
-        "name": "Old Man",
-        "frags": "20",
-        "deaths": "20",
-        "ping": "48",
-        "team": "1"
-      },
-      {
-        "name": "Kira",
-        "frags": "9",
-        "deaths": "5",
-        "ping": "109",
-        "team": "1"
-      },
-      {
-        "name": "KARA 2017",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "185",
+        "name": "Jones",
+        "frags": "1",
+        "deaths": "11",
+        "ping": "66",
         "team": "1"
       }
     ],
