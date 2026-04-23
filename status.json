@@ -2,67 +2,46 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "8/32",
-    "timeleft": "01:01",
-    "score_igi": "0",
+    "players_count": "5/32",
+    "timeleft": "09:50",
+    "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Sheryar",
-        "frags": "13",
-        "deaths": "17",
-        "ping": "184",
-        "team": "0"
-      },
-      {
-        "name": "Jona",
-        "frags": "13",
+        "name": "sebaxp899",
+        "frags": "8",
         "deaths": "16",
-        "ping": "93",
+        "ping": "12",
         "team": "0"
       },
       {
-        "name": "KillerKhanDON",
-        "frags": "5",
-        "deaths": "7",
-        "ping": "223",
+        "name": "~SERD~KNIGHTACE",
+        "frags": "8",
+        "deaths": "10",
+        "ping": "64",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Jones",
-        "frags": "4",
-        "deaths": "9",
-        "ping": "124",
-        "team": "1"
-      },
-      {
-        "name": "sebaxp899",
-        "frags": "3",
-        "deaths": "15",
-        "ping": "16",
-        "team": "1"
-      },
-      {
         "name": "shef",
-        "frags": "20",
-        "deaths": "11",
-        "ping": "154",
+        "frags": "11",
+        "deaths": "9",
+        "ping": "141",
         "team": "1"
       },
       {
-        "name": "K.B_1",
-        "frags": "1",
-        "deaths": "5",
-        "ping": "66",
+        "name": "Jones",
+        "frags": "12",
+        "deaths": "12",
+        "ping": "138",
         "team": "1"
       },
       {
-        "name": "KARA",
+        "name": "Sheryar",
         "frags": "0",
         "deaths": "0",
-        "ping": "173",
+        "ping": "211",
         "team": "1"
       }
     ],
