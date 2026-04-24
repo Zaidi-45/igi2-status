@@ -1,50 +1,21 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "5/32",
-    "timeleft": "13:21",
+    "mapname": "Airfield 2026",
+    "players_count": "1/32",
+    "timeleft": "05:52",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
         "name": "Jones",
         "frags": "0",
-        "deaths": "1",
-        "ping": "59",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "54",
-        "team": "0"
-      },
-      {
-        "name": "Instagram",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "44",
+        "deaths": "0",
+        "ping": "124",
         "team": "0"
       }
     ],
-    "team_con_players": [
-      {
-        "name": "shadowcamper",
-        "frags": "3",
-        "deaths": "0",
-        "ping": "76",
-        "team": "1"
-      },
-      {
-        "name": "Jones",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "133",
-        "team": "1"
-      }
-    ],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
