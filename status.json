@@ -1,26 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "2/32",
-    "timeleft": "01:04",
-    "score_igi": "0",
+    "mapname": "Aim map",
+    "players_count": "7/32",
+    "timeleft": "11:54",
+    "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
+        "name": "TAMERLAN",
+        "frags": "33",
+        "deaths": "38",
+        "ping": "200",
+        "team": "0"
+      },
+      {
         "name": "Jones",
-        "frags": "3",
-        "deaths": "7",
-        "ping": "133",
+        "frags": "12",
+        "deaths": "13",
+        "ping": "148",
+        "team": "0"
+      },
+      {
+        "name": "immortal",
+        "frags": "12",
+        "deaths": "19",
+        "ping": "63",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "KARA",
-        "frags": "6",
-        "deaths": "3",
-        "ping": "176",
+        "name": "Jones",
+        "frags": "25",
+        "deaths": "32",
+        "ping": "140",
+        "team": "1"
+      },
+      {
+        "name": "sebaxp899",
+        "frags": "16",
+        "deaths": "24",
+        "ping": "7",
+        "team": "1"
+      },
+      {
+        "name": "AK47-MASTER",
+        "frags": "26",
+        "deaths": "10",
+        "ping": "62",
         "team": "1"
       }
     ],
