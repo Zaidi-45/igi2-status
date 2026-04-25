@@ -1,64 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "7/32",
-    "timeleft": "06:32",
+    "mapname": "Sandstorm",
+    "players_count": "0/32",
+    "timeleft": "12:08",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "uknown person",
-        "frags": "2",
-        "deaths": "11",
-        "ping": "152",
-        "team": "0"
-      },
-      {
-        "name": "Vela Pulsar",
-        "frags": "9",
-        "deaths": "10",
-        "ping": "55",
-        "team": "0"
-      },
-      {
-        "name": "sebaxp899",
-        "frags": "5",
-        "deaths": "15",
-        "ping": "30",
-        "team": "0"
-      },
-      {
-        "name": "AjoaChaloDeniz",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "123",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "TAMERLAN",
-        "frags": "6",
-        "deaths": "2",
-        "ping": "216",
-        "team": "1"
-      },
-      {
-        "name": "immortal",
-        "frags": "16",
-        "deaths": "7",
-        "ping": "48",
-        "team": "1"
-      },
-      {
-        "name": "Jones",
-        "frags": "6",
-        "deaths": "12",
-        "ping": "74",
-        "team": "1"
-      }
-    ],
+    "score_con": "1",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
