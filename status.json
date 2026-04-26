@@ -2,70 +2,12 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Factory 2026",
-    "players_count": "8/32",
-    "timeleft": "11:26",
-    "score_igi": "1",
-    "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "LinuX Man",
-        "frags": "63",
-        "deaths": "39",
-        "ping": "158",
-        "team": "0"
-      },
-      {
-        "name": "immortal",
-        "frags": "30",
-        "deaths": "33",
-        "ping": "57",
-        "team": "0"
-      },
-      {
-        "name": "KARA",
-        "frags": "9",
-        "deaths": "26",
-        "ping": "163",
-        "team": "0"
-      },
-      {
-        "name": "shef",
-        "frags": "20",
-        "deaths": "16",
-        "ping": "124",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Jones",
-        "frags": "62",
-        "deaths": "75",
-        "ping": "162",
-        "team": "1"
-      },
-      {
-        "name": "Anyas_hsband_Rubal",
-        "frags": "20",
-        "deaths": "24",
-        "ping": "151",
-        "team": "1"
-      },
-      {
-        "name": "Khalid",
-        "frags": "10",
-        "deaths": "18",
-        "ping": "67",
-        "team": "1"
-      },
-      {
-        "name": "TheRealJones",
-        "frags": "7",
-        "deaths": "22",
-        "ping": "140",
-        "team": "1"
-      }
-    ],
+    "players_count": "0/32",
+    "timeleft": "08:01",
+    "score_igi": "0",
+    "score_con": "0",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
