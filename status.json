@@ -1,21 +1,36 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "1/32",
-    "timeleft": "13:41",
+    "mapname": "Aim map",
+    "players_count": "3/32",
+    "timeleft": "12:57",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "WILD HuNTeR",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "129",
+        "name": "Arnold",
+        "frags": "2",
+        "deaths": "7",
+        "ping": "169",
+        "team": "0"
+      },
+      {
+        "name": "Vela Pulsar",
+        "frags": "4",
+        "deaths": "3",
+        "ping": "61",
         "team": "0"
       }
     ],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "Jones",
+        "frags": "4",
+        "deaths": "1",
+        "ping": "106",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
