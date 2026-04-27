@@ -2,28 +2,12 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Factory 2026",
-    "players_count": "2/32",
-    "timeleft": "10:24",
-    "score_igi": "10",
-    "score_con": "9",
-    "team_igi_players": [
-      {
-        "name": "TheRealJones",
-        "frags": "21",
-        "deaths": "32",
-        "ping": "126",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "uknown person",
-        "frags": "30",
-        "deaths": "27",
-        "ping": "90",
-        "team": "1"
-      }
-    ],
+    "players_count": "0/32",
+    "timeleft": "09:06",
+    "score_igi": "11",
+    "score_con": "15",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
