@@ -1,13 +1,64 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "0/32",
-    "timeleft": "04:09",
-    "score_igi": "0",
+    "mapname": "Factory 2026",
+    "players_count": "7/32",
+    "timeleft": "10:14",
+    "score_igi": "1",
     "score_con": "0",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "team_igi_players": [
+      {
+        "name": "TheRealJones",
+        "frags": "5",
+        "deaths": "22",
+        "ping": "131",
+        "team": "0"
+      },
+      {
+        "name": "uknown person",
+        "frags": "7",
+        "deaths": "10",
+        "ping": "130",
+        "team": "0"
+      },
+      {
+        "name": "TAMERLAN",
+        "frags": "4",
+        "deaths": "8",
+        "ping": "317",
+        "team": "0"
+      },
+      {
+        "name": "Jona",
+        "frags": "4",
+        "deaths": "11",
+        "ping": "60",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "RubalTheLORD",
+        "frags": "9",
+        "deaths": "4",
+        "ping": "139",
+        "team": "1"
+      },
+      {
+        "name": "Jones",
+        "frags": "19",
+        "deaths": "14",
+        "ping": "179",
+        "team": "1"
+      },
+      {
+        "name": "Jones",
+        "frags": "12",
+        "deaths": "4",
+        "ping": "236",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
