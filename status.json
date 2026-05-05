@@ -1,33 +1,33 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
+    "mapname": "Desertstorm",
     "players_count": "3/32",
-    "timeleft": "14:55",
-    "score_igi": "0",
-    "score_con": "2",
+    "timeleft": "13:31",
+    "score_igi": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "S1mple",
-        "frags": "11",
-        "deaths": "6",
-        "ping": "89",
+        "name": "sebaxp899",
+        "frags": "5",
+        "deaths": "16",
+        "ping": "15",
+        "team": "0"
+      },
+      {
+        "name": "Prince",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "124",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "uknown person",
-        "frags": "34",
-        "deaths": "24",
-        "ping": "90",
-        "team": "1"
-      },
-      {
         "name": "LeGeND X HuNTeR",
-        "frags": "14",
-        "deaths": "33",
-        "ping": "48",
+        "frags": "15",
+        "deaths": "9",
+        "ping": "423",
         "team": "1"
       }
     ],
