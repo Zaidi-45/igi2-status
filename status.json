@@ -1,33 +1,40 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "3/32",
-    "timeleft": "04:43",
+    "mapname": "Sandstorm",
+    "players_count": "4/32",
+    "timeleft": "14:26",
     "score_igi": "1",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "LeGeND X HuNTeR",
-        "frags": "12",
-        "deaths": "14",
-        "ping": "61",
+        "name": "DON",
+        "frags": "8",
+        "deaths": "22",
+        "ping": "58",
+        "team": "0"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "19",
+        "deaths": "21",
+        "ping": "107",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "DON",
-        "frags": "7",
-        "deaths": "6",
-        "ping": "59",
+        "name": "TheRealJones",
+        "frags": "18",
+        "deaths": "17",
+        "ping": "80",
         "team": "1"
       },
       {
-        "name": "shef",
-        "frags": "6",
-        "deaths": "6",
-        "ping": "219",
+        "name": "AssaultSharpShooter",
+        "frags": "31",
+        "deaths": "13",
+        "ping": "66",
         "team": "1"
       }
     ],
