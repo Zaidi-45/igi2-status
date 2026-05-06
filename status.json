@@ -1,29 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "2/32",
-    "timeleft": "09:26",
+    "mapname": "Factory 2026",
+    "players_count": "0/32",
+    "timeleft": "12:18",
     "score_igi": "0",
     "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "AssaultSharpShooter",
-        "frags": "11",
-        "deaths": "11",
-        "ping": "63",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Khalid",
-        "frags": "11",
-        "deaths": "11",
-        "ping": "56",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
