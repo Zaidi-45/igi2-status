@@ -2,12 +2,84 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
-    "players_count": "0/32",
-    "timeleft": "14:16",
+    "players_count": "10/32",
+    "timeleft": "08:58",
     "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "shef",
+        "frags": "7",
+        "deaths": "3",
+        "ping": "179",
+        "team": "0"
+      },
+      {
+        "name": "DON",
+        "frags": "6",
+        "deaths": "7",
+        "ping": "100",
+        "team": "0"
+      },
+      {
+        "name": "DEXTER",
+        "frags": "1",
+        "deaths": "10",
+        "ping": "110",
+        "team": "0"
+      },
+      {
+        "name": "TheRealJones",
+        "frags": "3",
+        "deaths": "3",
+        "ping": "88",
+        "team": "0"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "9",
+        "deaths": "15",
+        "ping": "93",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Sheryar",
+        "frags": "6",
+        "deaths": "10",
+        "ping": "88",
+        "team": "1"
+      },
+      {
+        "name": "LeGeND X HuNTeR",
+        "frags": "6",
+        "deaths": "7",
+        "ping": "78",
+        "team": "1"
+      },
+      {
+        "name": "AjoaChaloDeniz",
+        "frags": "14",
+        "deaths": "11",
+        "ping": "144",
+        "team": "1"
+      },
+      {
+        "name": "sebaxp899",
+        "frags": "2",
+        "deaths": "2",
+        "ping": "8",
+        "team": "1"
+      },
+      {
+        "name": "S1mple",
+        "frags": "4",
+        "deaths": "1",
+        "ping": "82",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
