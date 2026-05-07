@@ -1,20 +1,12 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "1/32",
-    "timeleft": "07:34",
+    "mapname": "Factory 2026",
+    "players_count": "0/32",
+    "timeleft": "05:42",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "Wild Hunter",
-        "frags": "2",
-        "deaths": "4",
-        "ping": "109",
-        "team": "0"
-      }
-    ],
+    "score_con": "1",
+    "team_igi_players": [],
     "team_con_players": [],
     "status": "Online"
   }
