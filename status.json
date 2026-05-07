@@ -1,17 +1,17 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
+    "mapname": "Pribois villa",
     "players_count": "1/32",
-    "timeleft": "02:55",
+    "timeleft": "07:34",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "LeGeND X HuNTeR",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "64",
+        "name": "Wild Hunter",
+        "frags": "2",
+        "deaths": "4",
+        "ping": "109",
         "team": "0"
       }
     ],
