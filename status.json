@@ -1,12 +1,57 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "status": "Offline",
-    "mapname": "-",
-    "timeleft": "--:--",
-    "score_igi": 0,
-    "score_con": 0,
-    "team_igi_players": [],
-    "team_con_players": []
+    "mapname": "Sandstorm",
+    "players_count": "6/32",
+    "timeleft": "04:01",
+    "score_igi": "1",
+    "score_con": "1",
+    "team_igi_players": [
+      {
+        "name": "azmatkachutkakeeda",
+        "frags": "3",
+        "deaths": "12",
+        "ping": "93",
+        "team": "0"
+      },
+      {
+        "name": "Assag",
+        "frags": "14",
+        "deaths": "22",
+        "ping": "150",
+        "team": "0"
+      },
+      {
+        "name": "MaxPayne",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "60",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "LeGeND X HuNTeR",
+        "frags": "17",
+        "deaths": "22",
+        "ping": "59",
+        "team": "1"
+      },
+      {
+        "name": "azmat lafaggad prem chuddakad",
+        "frags": "16",
+        "deaths": "35",
+        "ping": "51",
+        "team": "1"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "51",
+        "deaths": "31",
+        "ping": "126",
+        "team": "1"
+      }
+    ],
+    "status": "Online"
   }
 ]
