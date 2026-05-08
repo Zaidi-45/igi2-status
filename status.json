@@ -1,12 +1,20 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "10:16",
-    "score_igi": "0",
+    "mapname": "Pribois villa",
+    "players_count": "1/32",
+    "timeleft": "03:57",
+    "score_igi": "2",
     "score_con": "0",
-    "team_igi_players": [],
+    "team_igi_players": [
+      {
+        "name": "azmat lafaggad prem chuddakad",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "334",
+        "team": "0"
+      }
+    ],
     "team_con_players": [],
     "status": "Online"
   }
