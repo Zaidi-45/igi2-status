@@ -1,33 +1,26 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "3/32",
-    "timeleft": "08:48",
+    "mapname": "Pribois villa",
+    "players_count": "2/32",
+    "timeleft": "MISSION OVER",
     "score_igi": "2",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "S1mple",
-        "frags": "47",
-        "deaths": "26",
-        "ping": "101",
+        "name": "Unknown Person",
+        "frags": "27",
+        "deaths": "25",
+        "ping": "138",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "LeGeND X HuNTeR",
-        "frags": "9",
-        "deaths": "16",
-        "ping": "50",
-        "team": "1"
-      },
-      {
-        "name": "Instagram",
-        "frags": "3",
-        "deaths": "4",
-        "ping": "55",
+        "frags": "18",
+        "deaths": "28",
+        "ping": "113",
         "team": "1"
       }
     ],
