@@ -1,13 +1,50 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "12:06",
+    "mapname": "Island assault",
+    "players_count": "5/32",
+    "timeleft": "11:03",
     "score_igi": "0",
     "score_con": "0",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "team_igi_players": [
+      {
+        "name": "DON",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "63",
+        "team": "0"
+      },
+      {
+        "name": "Unknown Person",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "84",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "shef",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "161",
+        "team": "1"
+      },
+      {
+        "name": "TheRealJones",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "87",
+        "team": "1"
+      },
+      {
+        "name": "Wild Hunter",
+        "frags": "2",
+        "deaths": "0",
+        "ping": "85",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
