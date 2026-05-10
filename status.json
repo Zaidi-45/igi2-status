@@ -1,47 +1,61 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "5/32",
-    "timeleft": "14:45",
-    "score_igi": "2",
-    "score_con": "0",
+    "mapname": "Pribois villa",
+    "players_count": "7/32",
+    "timeleft": "02:06",
+    "score_igi": "0",
+    "score_con": "2",
     "team_igi_players": [
       {
-        "name": "Unknown Person",
-        "frags": "15",
-        "deaths": "9",
-        "ping": "101",
-        "team": "0"
-      },
-      {
-        "name": "TheRealJones",
-        "frags": "21",
-        "deaths": "17",
-        "ping": "85",
+        "name": "Wild Hunter 2.O",
+        "frags": "47",
+        "deaths": "71",
+        "ping": "167",
         "team": "0"
       },
       {
         "name": "LEON",
-        "frags": "9",
-        "deaths": "8",
-        "ping": "57",
+        "frags": "11",
+        "deaths": "34",
+        "ping": "51",
+        "team": "0"
+      },
+      {
+        "name": "Irfan | YT",
+        "frags": "27",
+        "deaths": "34",
+        "ping": "41",
+        "team": "0"
+      },
+      {
+        "name": "S1mple",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "160",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Wild Hunter 2.O",
-        "frags": "13",
+        "name": "LinuX Man",
+        "frags": "75",
         "deaths": "22",
-        "ping": "63",
+        "ping": "113",
         "team": "1"
       },
       {
         "name": "ayesha",
-        "frags": "17",
-        "deaths": "26",
-        "ping": "130",
+        "frags": "6",
+        "deaths": "13",
+        "ping": "136",
+        "team": "1"
+      },
+      {
+        "name": "TheRealJones",
+        "frags": "2",
+        "deaths": "0",
+        "ping": "96",
         "team": "1"
       }
     ],
