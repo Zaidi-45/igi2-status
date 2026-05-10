@@ -1,26 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "2/32",
-    "timeleft": "05:33",
-    "score_igi": "0",
-    "score_con": "1",
+    "mapname": "Sandstorm",
+    "players_count": "5/32",
+    "timeleft": "14:45",
+    "score_igi": "2",
+    "score_con": "0",
     "team_igi_players": [
       {
         "name": "Unknown Person",
-        "frags": "3",
-        "deaths": "4",
-        "ping": "96",
+        "frags": "15",
+        "deaths": "9",
+        "ping": "101",
+        "team": "0"
+      },
+      {
+        "name": "TheRealJones",
+        "frags": "21",
+        "deaths": "17",
+        "ping": "85",
+        "team": "0"
+      },
+      {
+        "name": "LEON",
+        "frags": "9",
+        "deaths": "8",
+        "ping": "57",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "Wild Hunter 2.O",
-        "frags": "4",
-        "deaths": "3",
-        "ping": "51",
+        "frags": "13",
+        "deaths": "22",
+        "ping": "63",
+        "team": "1"
+      },
+      {
+        "name": "ayesha",
+        "frags": "17",
+        "deaths": "26",
+        "ping": "130",
         "team": "1"
       }
     ],
