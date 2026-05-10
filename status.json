@@ -1,33 +1,26 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "3/32",
-    "timeleft": "14:17",
-    "score_igi": "2",
-    "score_con": "0",
+    "mapname": "Pribois villa",
+    "players_count": "2/32",
+    "timeleft": "05:33",
+    "score_igi": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "Wild Hunter 2.O",
-        "frags": "2",
-        "deaths": "6",
-        "ping": "60",
-        "team": "0"
-      },
-      {
-        "name": "Asad_Mars",
-        "frags": "4",
-        "deaths": "2",
-        "ping": "46",
+        "name": "Unknown Person",
+        "frags": "3",
+        "deaths": "4",
+        "ping": "96",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "S1mple",
+        "name": "Wild Hunter 2.O",
         "frags": "4",
         "deaths": "3",
-        "ping": "121",
+        "ping": "51",
         "team": "1"
       }
     ],
