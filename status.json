@@ -1,33 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "3/32",
-    "timeleft": "08:34",
-    "score_igi": "1",
-    "score_con": "0",
+    "mapname": "Airfield 2026",
+    "players_count": "6/32",
+    "timeleft": "12:43",
+    "score_igi": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "The SPEED DeMoN",
-        "frags": "9",
-        "deaths": "17",
-        "ping": "62",
+        "name": "unknown person",
+        "frags": "10",
+        "deaths": "34",
+        "ping": "79",
+        "team": "0"
+      },
+      {
+        "name": "Akash",
+        "frags": "4",
+        "deaths": "22",
+        "ping": "133",
+        "team": "0"
+      },
+      {
+        "name": "DON",
+        "frags": "2",
+        "deaths": "5",
+        "ping": "57",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "DON",
-        "frags": "20",
-        "deaths": "13",
-        "ping": "116",
+        "name": "Assag",
+        "frags": "46",
+        "deaths": "20",
+        "ping": "165",
         "team": "1"
       },
       {
-        "name": "zainab",
-        "frags": "13",
-        "deaths": "18",
-        "ping": "130",
+        "name": "Khalid",
+        "frags": "14",
+        "deaths": "12",
+        "ping": "48",
+        "team": "1"
+      },
+      {
+        "name": "SNIPER",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "82",
         "team": "1"
       }
     ],
