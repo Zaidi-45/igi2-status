@@ -1,54 +1,26 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Airfield 2026",
-    "players_count": "6/32",
-    "timeleft": "12:43",
+    "mapname": "Factory 2026",
+    "players_count": "2/32",
+    "timeleft": "14:10",
     "score_igi": "0",
     "score_con": "1",
     "team_igi_players": [
       {
-        "name": "unknown person",
-        "frags": "10",
-        "deaths": "34",
-        "ping": "79",
-        "team": "0"
-      },
-      {
         "name": "Akash",
-        "frags": "4",
-        "deaths": "22",
-        "ping": "133",
-        "team": "0"
-      },
-      {
-        "name": "DON",
-        "frags": "2",
-        "deaths": "5",
-        "ping": "57",
+        "frags": "0",
+        "deaths": "2",
+        "ping": "212",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Assag",
-        "frags": "46",
-        "deaths": "20",
-        "ping": "165",
-        "team": "1"
-      },
-      {
-        "name": "Khalid",
-        "frags": "14",
-        "deaths": "12",
-        "ping": "48",
-        "team": "1"
-      },
-      {
-        "name": "SNIPER",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "82",
+        "name": "THX ~!! mOsT_wAnTed",
+        "frags": "2",
+        "deaths": "0",
+        "ping": "62",
         "team": "1"
       }
     ],
