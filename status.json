@@ -1,29 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "2/32",
-    "timeleft": "12:53",
+    "mapname": "Factory 2026",
+    "players_count": "0/32",
+    "timeleft": "00:49",
     "score_igi": "0",
     "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "Akash",
-        "frags": "10",
-        "deaths": "9",
-        "ping": "170",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "7",
-        "deaths": "11",
-        "ping": "84",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
