@@ -2,32 +2,53 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
-    "players_count": "3/32",
-    "timeleft": "07:32",
+    "players_count": "6/32",
+    "timeleft": "08:57",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "shadowcamper",
-        "frags": "3",
-        "deaths": "1",
-        "ping": "63",
+        "name": "Jona",
+        "frags": "15",
+        "deaths": "8",
+        "ping": "59",
         "team": "0"
       },
       {
-        "name": "Jona",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "50",
+        "name": "TheRealJones",
+        "frags": "-1",
+        "deaths": "9",
+        "ping": "67",
+        "team": "0"
+      },
+      {
+        "name": "DexterX",
+        "frags": "4",
+        "deaths": "5",
+        "ping": "89",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "zainab",
-        "frags": "1",
-        "deaths": "1",
-        "ping": "61",
+        "name": "unknown person",
+        "frags": "10",
+        "deaths": "9",
+        "ping": "143",
+        "team": "1"
+      },
+      {
+        "name": "Asad_Mars",
+        "frags": "2",
+        "deaths": "9",
+        "ping": "55",
+        "team": "1"
+      },
+      {
+        "name": "The SPEED DeMoN",
+        "frags": "6",
+        "deaths": "3",
+        "ping": "92",
         "team": "1"
       }
     ],
