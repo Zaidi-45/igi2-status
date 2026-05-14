@@ -1,82 +1,40 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "10/32",
-    "timeleft": "06:31",
-    "score_igi": "0",
-    "score_con": "2",
+    "mapname": "Factory 2026",
+    "players_count": "4/32",
+    "timeleft": "04:08",
+    "score_igi": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "LinuX Man",
-        "frags": "42",
-        "deaths": "49",
-        "ping": "193",
+        "name": "Burchatta Tarun Ki Maa Apron Chotta",
+        "frags": "12",
+        "deaths": "23",
+        "ping": "755",
         "team": "0"
       },
       {
-        "name": "shadowcamper",
-        "frags": "49",
-        "deaths": "29",
-        "ping": "54",
-        "team": "0"
-      },
-      {
-        "name": "DON",
-        "frags": "45",
-        "deaths": "36",
-        "ping": "83",
-        "team": "0"
-      },
-      {
-        "name": "Assag",
-        "frags": "17",
-        "deaths": "20",
-        "ping": "173",
-        "team": "0"
-      },
-      {
-        "name": "unknown person",
-        "frags": "14",
-        "deaths": "16",
-        "ping": "87",
+        "name": "Khalid",
+        "frags": "2",
+        "deaths": "4",
+        "ping": "56",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "AjoaChaloDeniz",
-        "frags": "39",
-        "deaths": "40",
-        "ping": "136",
+        "name": "Apron Gaming",
+        "frags": "13",
+        "deaths": "12",
+        "ping": "46",
         "team": "1"
       },
       {
         "name": "THX ~!! mOsT_wAnTed",
-        "frags": "26",
-        "deaths": "12",
-        "ping": "53",
-        "team": "1"
-      },
-      {
-        "name": "K.B_1",
-        "frags": "13",
-        "deaths": "28",
-        "ping": "63",
-        "team": "1"
-      },
-      {
-        "name": "Khalid",
-        "frags": "20",
-        "deaths": "25",
-        "ping": "52",
-        "team": "1"
-      },
-      {
-        "name": "TheRealJones",
-        "frags": "17",
-        "deaths": "22",
-        "ping": "91",
+        "frags": "2",
+        "deaths": "0",
+        "ping": "58",
         "team": "1"
       }
     ],
