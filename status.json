@@ -1,21 +1,85 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
-    "players_count": "1/32",
-    "timeleft": "14:49",
+    "mapname": "Pribois villa",
+    "players_count": "10/32",
+    "timeleft": "06:31",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "2",
     "team_igi_players": [
       {
+        "name": "LinuX Man",
+        "frags": "42",
+        "deaths": "49",
+        "ping": "193",
+        "team": "0"
+      },
+      {
+        "name": "shadowcamper",
+        "frags": "49",
+        "deaths": "29",
+        "ping": "54",
+        "team": "0"
+      },
+      {
+        "name": "DON",
+        "frags": "45",
+        "deaths": "36",
+        "ping": "83",
+        "team": "0"
+      },
+      {
+        "name": "Assag",
+        "frags": "17",
+        "deaths": "20",
+        "ping": "173",
+        "team": "0"
+      },
+      {
         "name": "unknown person",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "79",
+        "frags": "14",
+        "deaths": "16",
+        "ping": "87",
         "team": "0"
       }
     ],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "AjoaChaloDeniz",
+        "frags": "39",
+        "deaths": "40",
+        "ping": "136",
+        "team": "1"
+      },
+      {
+        "name": "THX ~!! mOsT_wAnTed",
+        "frags": "26",
+        "deaths": "12",
+        "ping": "53",
+        "team": "1"
+      },
+      {
+        "name": "K.B_1",
+        "frags": "13",
+        "deaths": "28",
+        "ping": "63",
+        "team": "1"
+      },
+      {
+        "name": "Khalid",
+        "frags": "20",
+        "deaths": "25",
+        "ping": "52",
+        "team": "1"
+      },
+      {
+        "name": "TheRealJones",
+        "frags": "17",
+        "deaths": "22",
+        "ping": "91",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
