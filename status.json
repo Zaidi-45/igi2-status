@@ -2,70 +2,12 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "8/32",
-    "timeleft": "02:29",
+    "players_count": "0/32",
+    "timeleft": "06:13",
     "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [
-      {
-        "name": "Apron Gaming",
-        "frags": "26",
-        "deaths": "38",
-        "ping": "47",
-        "team": "0"
-      },
-      {
-        "name": "TAMERLAN",
-        "frags": "27",
-        "deaths": "14",
-        "ping": "203",
-        "team": "0"
-      },
-      {
-        "name": "unknown person",
-        "frags": "22",
-        "deaths": "43",
-        "ping": "86",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "4",
-        "deaths": "14",
-        "ping": "83",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Arporn Gayming",
-        "frags": "40",
-        "deaths": "41",
-        "ping": "66",
-        "team": "1"
-      },
-      {
-        "name": "LinuX Man",
-        "frags": "32",
-        "deaths": "22",
-        "ping": "111",
-        "team": "1"
-      },
-      {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "28",
-        "deaths": "20",
-        "ping": "72",
-        "team": "1"
-      },
-      {
-        "name": "Irfan | YT",
-        "frags": "16",
-        "deaths": "39",
-        "ping": "36",
-        "team": "1"
-      }
-    ],
+    "score_con": "1",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
