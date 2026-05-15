@@ -2,12 +2,28 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
-    "players_count": "0/32",
-    "timeleft": "02:19",
+    "players_count": "2/32",
+    "timeleft": "09:12",
     "score_igi": "0",
-    "score_con": "1",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "2",
+    "team_igi_players": [
+      {
+        "name": "The SPEED DeMoN",
+        "frags": "1",
+        "deaths": "7",
+        "ping": "68",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Nitrazo Lantinova",
+        "frags": "6",
+        "deaths": "1",
+        "ping": "110",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
