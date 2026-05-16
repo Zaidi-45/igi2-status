@@ -1,71 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "8/32",
-    "timeleft": "07:10",
-    "score_igi": "2",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "AssaultSharpShooter",
-        "frags": "105",
-        "deaths": "66",
-        "ping": "60",
-        "team": "0"
-      },
-      {
-        "name": "LinuX Man",
-        "frags": "105",
-        "deaths": "86",
-        "ping": "158",
-        "team": "0"
-      },
-      {
-        "name": "unknown person",
-        "frags": "47",
-        "deaths": "62",
-        "ping": "79",
-        "team": "0"
-      },
-      {
-        "name": "Itachi Lover",
-        "frags": "4",
-        "deaths": "0",
-        "ping": "62",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Wild Hunter>GG",
-        "frags": "45",
-        "deaths": "84",
-        "ping": "47",
-        "team": "1"
-      },
-      {
-        "name": "Rai Star",
-        "frags": "10",
-        "deaths": "7",
-        "ping": "99",
-        "team": "1"
-      },
-      {
-        "name": "Arporn Gayming",
-        "frags": "1",
-        "deaths": "8",
-        "ping": "89",
-        "team": "1"
-      },
-      {
-        "name": "Holland",
-        "frags": "4",
-        "deaths": "3",
-        "ping": "175",
-        "team": "1"
-      }
-    ],
+    "mapname": "Pribois villa",
+    "players_count": "0/32",
+    "timeleft": "13:41",
+    "score_igi": "0",
+    "score_con": "1",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
