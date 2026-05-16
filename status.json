@@ -1,20 +1,12 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
+    "mapname": "Factory 2026",
     "players_count": "1/32",
-    "timeleft": "13:40",
-    "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [
-      {
-        "name": "Wild Hunter>GG",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "107",
-        "team": "0"
-      }
-    ],
+    "timeleft": "02:12",
+    "score_igi": "1",
+    "score_con": "1",
+    "team_igi_players": [],
     "team_con_players": [],
     "status": "Online"
   }
