@@ -1,71 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "8/32",
-    "timeleft": "MISSION OVER",
+    "mapname": "Pribois villa",
+    "players_count": "0/32",
+    "timeleft": "04:29",
     "score_igi": "1",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "unknown person",
-        "frags": "18",
-        "deaths": "37",
-        "ping": "91",
-        "team": "0"
-      },
-      {
-        "name": "Abdwaly madarchod",
-        "frags": "19",
-        "deaths": "24",
-        "ping": "54",
-        "team": "0"
-      },
-      {
-        "name": "AZCHUTYIA",
-        "frags": "10",
-        "deaths": "12",
-        "ping": "61",
-        "team": "0"
-      },
-      {
-        "name": "Alexa",
-        "frags": "18",
-        "deaths": "19",
-        "ping": "172",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Khalid",
-        "frags": "25",
-        "deaths": "15",
-        "ping": "63",
-        "team": "1"
-      },
-      {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "12",
-        "deaths": "17",
-        "ping": "70",
-        "team": "1"
-      },
-      {
-        "name": "AjoaChaloDeniz",
-        "frags": "21",
-        "deaths": "23",
-        "ping": "157",
-        "team": "1"
-      },
-      {
-        "name": "TAMERLAN",
-        "frags": "7",
-        "deaths": "4",
-        "ping": "199",
-        "team": "1"
-      }
-    ],
+    "score_con": "1",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
