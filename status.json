@@ -1,47 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Airfield 2026",
+    "mapname": "Sandstorm",
     "players_count": "5/32",
-    "timeleft": "14:36",
-    "score_igi": "0",
-    "score_con": "0",
+    "timeleft": "13:53",
+    "score_igi": "1",
+    "score_con": "1",
     "team_igi_players": [
       {
-        "name": "The_LimitBreaker-X!",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "89",
+        "name": "Jona",
+        "frags": "22",
+        "deaths": "16",
+        "ping": "116",
         "team": "0"
       },
       {
-        "name": "unknown person",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "119",
+        "name": "HYDRA",
+        "frags": "19",
+        "deaths": "17",
+        "ping": "59",
+        "team": "0"
+      },
+      {
+        "name": "Rogue Apocalypse",
+        "frags": "6",
+        "deaths": "3",
+        "ping": "140",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Kishan",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "75",
+        "name": "unknown person",
+        "frags": "17",
+        "deaths": "36",
+        "ping": "78",
         "team": "1"
       },
       {
-        "name": "TheRealJones",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "107",
-        "team": "1"
-      },
-      {
-        "name": "Holland",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "368",
+        "name": "Mr.Lodu",
+        "frags": "14",
+        "deaths": "33",
+        "ping": "136",
         "team": "1"
       }
     ],
