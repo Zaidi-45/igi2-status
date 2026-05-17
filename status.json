@@ -1,33 +1,68 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "3/32",
-    "timeleft": "11:21",
-    "score_igi": "0",
+    "mapname": "Pribois villa",
+    "players_count": "8/32",
+    "timeleft": "00:29",
+    "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "unknown person",
-        "frags": "1",
-        "deaths": "2",
-        "ping": "83",
+        "name": "Night Sky madarchod",
+        "frags": "23",
+        "deaths": "34",
+        "ping": "52",
+        "team": "0"
+      },
+      {
+        "name": "Irfan | YT",
+        "frags": "16",
+        "deaths": "28",
+        "ping": "28",
+        "team": "0"
+      },
+      {
+        "name": "Agnes_Patrick",
+        "frags": "2",
+        "deaths": "29",
+        "ping": "150",
+        "team": "0"
+      },
+      {
+        "name": "Rogue Apocalypse",
+        "frags": "10",
+        "deaths": "4",
+        "ping": "69",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "Rogue Apocalypse",
-        "frags": "2",
-        "deaths": "1",
-        "ping": "97",
+        "name": "unknown person",
+        "frags": "12",
+        "deaths": "28",
+        "ping": "129",
         "team": "1"
       },
       {
-        "name": "Irfan | YT",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "31",
+        "name": "LinuX Man",
+        "frags": "39",
+        "deaths": "31",
+        "ping": "111",
+        "team": "1"
+      },
+      {
+        "name": "shef",
+        "frags": "29",
+        "deaths": "16",
+        "ping": "163",
+        "team": "1"
+      },
+      {
+        "name": "TAMERLAN",
+        "frags": "22",
+        "deaths": "12",
+        "ping": "193",
         "team": "1"
       }
     ],
