@@ -1,68 +1,68 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
+    "mapname": "Sandstorm",
     "players_count": "8/32",
-    "timeleft": "00:29",
+    "timeleft": "MISSION OVER",
     "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Night Sky madarchod",
-        "frags": "23",
-        "deaths": "34",
-        "ping": "52",
+        "name": "unknown person",
+        "frags": "18",
+        "deaths": "37",
+        "ping": "91",
         "team": "0"
       },
       {
-        "name": "Irfan | YT",
-        "frags": "16",
-        "deaths": "28",
-        "ping": "28",
+        "name": "Abdwaly madarchod",
+        "frags": "19",
+        "deaths": "24",
+        "ping": "54",
         "team": "0"
       },
       {
-        "name": "Agnes_Patrick",
-        "frags": "2",
-        "deaths": "29",
-        "ping": "150",
-        "team": "0"
-      },
-      {
-        "name": "Rogue Apocalypse",
+        "name": "AZCHUTYIA",
         "frags": "10",
-        "deaths": "4",
-        "ping": "69",
+        "deaths": "12",
+        "ping": "61",
+        "team": "0"
+      },
+      {
+        "name": "Alexa",
+        "frags": "18",
+        "deaths": "19",
+        "ping": "172",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "unknown person",
+        "name": "Khalid",
+        "frags": "25",
+        "deaths": "15",
+        "ping": "63",
+        "team": "1"
+      },
+      {
+        "name": "THX ~!! mOsT_wAnTed",
         "frags": "12",
-        "deaths": "28",
-        "ping": "129",
+        "deaths": "17",
+        "ping": "70",
         "team": "1"
       },
       {
-        "name": "LinuX Man",
-        "frags": "39",
-        "deaths": "31",
-        "ping": "111",
-        "team": "1"
-      },
-      {
-        "name": "shef",
-        "frags": "29",
-        "deaths": "16",
-        "ping": "163",
+        "name": "AjoaChaloDeniz",
+        "frags": "21",
+        "deaths": "23",
+        "ping": "157",
         "team": "1"
       },
       {
         "name": "TAMERLAN",
-        "frags": "22",
-        "deaths": "12",
-        "ping": "193",
+        "frags": "7",
+        "deaths": "4",
+        "ping": "199",
         "team": "1"
       }
     ],
