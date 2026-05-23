@@ -1,40 +1,40 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "de_dust2",
+    "mapname": "Sandstorm",
     "players_count": "4/32",
-    "timeleft": "10:54",
-    "score_igi": "0",
+    "timeleft": "11:56",
+    "score_igi": "2",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Akash",
-        "frags": "4",
-        "deaths": "6",
-        "ping": "160",
+        "name": "LinuX Man",
+        "frags": "36",
+        "deaths": "36",
+        "ping": "130",
         "team": "0"
       },
       {
-        "name": "Irfan | YT",
-        "frags": "3",
-        "deaths": "16",
-        "ping": "32",
+        "name": "ThunderBolt",
+        "frags": "5",
+        "deaths": "2",
+        "ping": "78",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "shef",
-        "frags": "9",
-        "deaths": "5",
-        "ping": "169",
+        "name": "THX ~!! mOsT_wAnTed",
+        "frags": "26",
+        "deaths": "11",
+        "ping": "63",
         "team": "1"
       },
       {
-        "name": "K1SH4N ADK4T4LW4R",
-        "frags": "13",
-        "deaths": "3",
-        "ping": "293",
+        "name": "Anyas_hsband_Rubal",
+        "frags": "10",
+        "deaths": "17",
+        "ping": "112",
         "team": "1"
       }
     ],
