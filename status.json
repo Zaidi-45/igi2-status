@@ -1,13 +1,21 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "02:53",
+    "mapname": "Pribois villa",
+    "players_count": "1/32",
+    "timeleft": "11:23",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "2",
     "team_igi_players": [],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "sebaxp899",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "11",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
