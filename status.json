@@ -1,13 +1,43 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
-    "players_count": "0/32",
-    "timeleft": "14:14",
+    "mapname": "Infiltration 2026",
+    "players_count": "4/32",
+    "timeleft": "00:12",
     "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "Asad_Mars",
+        "frags": "-1",
+        "deaths": "1",
+        "ping": "41",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "DON",
+        "frags": "3",
+        "deaths": "5",
+        "ping": "179",
+        "team": "1"
+      },
+      {
+        "name": "Unslaughtered Cow",
+        "frags": "1",
+        "deaths": "7",
+        "ping": "64",
+        "team": "1"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "2",
+        "deaths": "4",
+        "ping": "105",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
