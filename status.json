@@ -1,57 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
-    "players_count": "6/32",
-    "timeleft": "09:59",
+    "mapname": "Sandstorm",
+    "players_count": "0/32",
+    "timeleft": "02:02",
     "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [
-      {
-        "name": "LinuX Man",
-        "frags": "18",
-        "deaths": "18",
-        "ping": "112",
-        "team": "0"
-      },
-      {
-        "name": "shef",
-        "frags": "0",
-        "deaths": "3",
-        "ping": "181",
-        "team": "0"
-      },
-      {
-        "name": "Irfan YT",
-        "frags": "2",
-        "deaths": "6",
-        "ping": "32",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "RubalTheLord",
-        "frags": "10",
-        "deaths": "7",
-        "ping": "102",
-        "team": "1"
-      },
-      {
-        "name": "AssaultSharpShooter",
-        "frags": "6",
-        "deaths": "6",
-        "ping": "50",
-        "team": "1"
-      },
-      {
-        "name": "immortal",
-        "frags": "5",
-        "deaths": "2",
-        "ping": "64",
-        "team": "1"
-      }
-    ],
+    "score_con": "0",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
