@@ -2,12 +2,28 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
-    "players_count": "0/32",
-    "timeleft": "14:30",
-    "score_igi": "0",
+    "players_count": "2/32",
+    "timeleft": "06:17",
+    "score_igi": "1",
     "score_con": "1",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "team_igi_players": [
+      {
+        "name": "unknown person",
+        "frags": "6",
+        "deaths": "4",
+        "ping": "90",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Also Jones",
+        "frags": "13",
+        "deaths": "16",
+        "ping": "68",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
