@@ -1,13 +1,50 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "0/32",
-    "timeleft": "02:16",
-    "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "mapname": "Redstone",
+    "players_count": "5/32",
+    "timeleft": "04:39",
+    "score_igi": "1",
+    "score_con": "1",
+    "team_igi_players": [
+      {
+        "name": "Irfan YT",
+        "frags": "13",
+        "deaths": "13",
+        "ping": "32",
+        "team": "0"
+      },
+      {
+        "name": "immortal",
+        "frags": "8",
+        "deaths": "7",
+        "ping": "68",
+        "team": "0"
+      },
+      {
+        "name": "TheRealJones",
+        "frags": "3",
+        "deaths": "7",
+        "ping": "84",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "THX  ^^  KING VON ^ ",
+        "frags": "15",
+        "deaths": "16",
+        "ping": "104",
+        "team": "1"
+      },
+      {
+        "name": "RubalTheLord",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "106",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
