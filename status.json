@@ -1,26 +1,33 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "2/32",
-    "timeleft": "01:18",
+    "mapname": "Pribois villa",
+    "players_count": "3/32",
+    "timeleft": "07:41",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "2",
     "team_igi_players": [
       {
-        "name": "TheRealJones",
+        "name": "immortal",
         "frags": "0",
-        "deaths": "0",
-        "ping": "88",
+        "deaths": "1",
+        "ping": "349",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "THX  ^^  KING VON ^ ",
+        "frags": "1",
+        "deaths": "1",
+        "ping": "62",
+        "team": "1"
+      },
+      {
+        "name": "unknown person",
         "frags": "0",
         "deaths": "0",
-        "ping": "125",
+        "ping": "86",
         "team": "1"
       }
     ],
