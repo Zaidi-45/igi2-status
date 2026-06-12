@@ -2,20 +2,42 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Factory 2026",
-    "players_count": "1/32",
-    "timeleft": "07:49",
-    "score_igi": "0",
-    "score_con": "2",
+    "players_count": "4/32",
+    "timeleft": "03:59",
+    "score_igi": "2",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Sito Rodriguez",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "46",
+        "name": "David Jones",
+        "frags": "1",
+        "deaths": "33",
+        "ping": "65",
+        "team": "0"
+      },
+      {
+        "name": "THX  ^^  KING VON ^ ",
+        "frags": "6",
+        "deaths": "3",
+        "ping": "71",
+        "team": "0"
+      },
+      {
+        "name": "Kung Fu Panda",
+        "frags": "6",
+        "deaths": "10",
+        "ping": "50",
         "team": "0"
       }
     ],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "Jones",
+        "frags": "5",
+        "deaths": "2",
+        "ping": "271",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
