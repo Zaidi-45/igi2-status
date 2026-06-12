@@ -1,13 +1,71 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "0/32",
-    "timeleft": "09:45",
-    "score_igi": "1",
-    "score_con": "1",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "mapname": "Canyon",
+    "players_count": "8/32",
+    "timeleft": "06:14",
+    "score_igi": "0",
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "DON",
+        "frags": "6",
+        "deaths": "4",
+        "ping": "61",
+        "team": "0"
+      },
+      {
+        "name": "immortal",
+        "frags": "6",
+        "deaths": "10",
+        "ping": "79",
+        "team": "0"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "6",
+        "deaths": "7",
+        "ping": "134",
+        "team": "0"
+      },
+      {
+        "name": "AssaultSharpShooter",
+        "frags": "3",
+        "deaths": "2",
+        "ping": "56",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "unknown person",
+        "frags": "2",
+        "deaths": "7",
+        "ping": "87",
+        "team": "1"
+      },
+      {
+        "name": "THX  ^^  KING VON ^ ",
+        "frags": "4",
+        "deaths": "7",
+        "ping": "82",
+        "team": "1"
+      },
+      {
+        "name": "J.delta",
+        "frags": "5",
+        "deaths": "3",
+        "ping": "64",
+        "team": "1"
+      },
+      {
+        "name": "Irfan YT",
+        "frags": "1",
+        "deaths": "3",
+        "ping": "34",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
