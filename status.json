@@ -1,33 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "3/32",
-    "timeleft": "07:47",
+    "mapname": "de_dust2",
+    "players_count": "6/32",
+    "timeleft": "04:53",
     "score_igi": "0",
-    "score_con": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
         "name": "THX  ^^  KING VON ^ ",
-        "frags": "6",
+        "frags": "4",
         "deaths": "4",
-        "ping": "69",
+        "ping": "75",
+        "team": "0"
+      },
+      {
+        "name": "Jones",
+        "frags": "1",
+        "deaths": "10",
+        "ping": "80",
+        "team": "0"
+      },
+      {
+        "name": "ekk",
+        "frags": "3",
+        "deaths": "12",
+        "ping": "64",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "David Jones",
-        "frags": "2",
-        "deaths": "7",
-        "ping": "76",
+        "name": "Kung Fu Panda",
+        "frags": "14",
+        "deaths": "4",
+        "ping": "50",
         "team": "1"
       },
       {
-        "name": "killer01623",
-        "frags": "2",
-        "deaths": "1",
-        "ping": "67",
+        "name": "Mr.X",
+        "frags": "9",
+        "deaths": "0",
+        "ping": "66",
+        "team": "1"
+      },
+      {
+        "name": "Irfan YT",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "35",
         "team": "1"
       }
     ],
