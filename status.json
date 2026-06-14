@@ -1,29 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Desertstorm",
-    "players_count": "2/32",
-    "timeleft": "01:08",
+    "mapname": "Sandstorm",
+    "players_count": "0/32",
+    "timeleft": "MISSION OVER",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "THX  ^^  KING VON ^ ",
-        "frags": "11",
-        "deaths": "8",
-        "ping": "70",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "immortal",
-        "frags": "7",
-        "deaths": "11",
-        "ping": "60",
-        "team": "1"
-      }
-    ],
+    "score_con": "1",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
