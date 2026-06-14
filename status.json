@@ -1,13 +1,64 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
-    "players_count": "0/32",
-    "timeleft": "06:11",
+    "mapname": "Pribois villa",
+    "players_count": "7/32",
+    "timeleft": "04:08",
     "score_igi": "0",
-    "score_con": "1",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "fOreXtx",
+        "frags": "14",
+        "deaths": "8",
+        "ping": "44",
+        "team": "0"
+      },
+      {
+        "name": "IGI2",
+        "frags": "4",
+        "deaths": "18",
+        "ping": "67",
+        "team": "0"
+      },
+      {
+        "name": "Kung Fu Panda",
+        "frags": "15",
+        "deaths": "14",
+        "ping": "42",
+        "team": "0"
+      },
+      {
+        "name": "DAD OF REALJONES",
+        "frags": "6",
+        "deaths": "8",
+        "ping": "61",
+        "team": "0"
+      },
+      {
+        "name": "Pappu Badmash",
+        "frags": "7",
+        "deaths": "3",
+        "ping": "50",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "PuNisherX",
+        "frags": "16",
+        "deaths": "21",
+        "ping": "78",
+        "team": "1"
+      },
+      {
+        "name": "JAHAR - TAMERLAN",
+        "frags": "4",
+        "deaths": "3",
+        "ping": "276",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
