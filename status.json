@@ -2,12 +2,28 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Sandstorm",
-    "players_count": "0/32",
-    "timeleft": "00:17",
+    "players_count": "2/32",
+    "timeleft": "08:53",
     "score_igi": "0",
-    "score_con": "2",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "Kung Fu Panda",
+        "frags": "3",
+        "deaths": "5",
+        "ping": "43",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "Mr. M",
+        "frags": "5",
+        "deaths": "5",
+        "ping": "63",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
