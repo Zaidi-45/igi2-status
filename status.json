@@ -1,40 +1,47 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "4/32",
-    "timeleft": "11:21",
+    "mapname": "Sandstorm",
+    "players_count": "5/32",
+    "timeleft": "10:13",
     "score_igi": "0",
-    "score_con": "1",
+    "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Jones",
-        "frags": "2",
-        "deaths": "6",
-        "ping": "94",
+        "name": "shef",
+        "frags": "7",
+        "deaths": "2",
+        "ping": "200",
         "team": "0"
       },
       {
-        "name": "Agent",
-        "frags": "7",
-        "deaths": "7",
-        "ping": "49",
+        "name": "fOreXtx",
+        "frags": "3",
+        "deaths": "2",
+        "ping": "40",
+        "team": "0"
+      },
+      {
+        "name": "Irfan YT",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "27",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "THX  ^^  KING VON ^",
-        "frags": "7",
-        "deaths": "6",
-        "ping": "67",
+        "name": "killer01623",
+        "frags": "2",
+        "deaths": "10",
+        "ping": "63",
         "team": "1"
       },
       {
-        "name": "Kakarot-xD",
+        "name": "THX  ^^  KING VON ^",
         "frags": "2",
-        "deaths": "5",
-        "ping": "115",
+        "deaths": "3",
+        "ping": "64",
         "team": "1"
       }
     ],
