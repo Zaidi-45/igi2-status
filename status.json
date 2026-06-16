@@ -1,13 +1,43 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "0/32",
-    "timeleft": "14:03",
+    "mapname": "Pribois villa",
+    "players_count": "4/32",
+    "timeleft": "11:21",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [],
-    "team_con_players": [],
+    "score_con": "1",
+    "team_igi_players": [
+      {
+        "name": "Jones",
+        "frags": "2",
+        "deaths": "6",
+        "ping": "94",
+        "team": "0"
+      },
+      {
+        "name": "Agent",
+        "frags": "7",
+        "deaths": "7",
+        "ping": "49",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "THX  ^^  KING VON ^",
+        "frags": "7",
+        "deaths": "6",
+        "ping": "67",
+        "team": "1"
+      },
+      {
+        "name": "Kakarot-xD",
+        "frags": "2",
+        "deaths": "5",
+        "ping": "115",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
