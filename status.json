@@ -1,21 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "1/32",
-    "timeleft": "02:56",
+    "mapname": "Sandstorm",
+    "players_count": "0/32",
+    "timeleft": "01:55",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [],
-    "team_con_players": [
-      {
-        "name": "Chunky Lee Chong",
-        "frags": "18",
-        "deaths": "31",
-        "ping": "52",
-        "team": "1"
-      }
-    ],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
