@@ -2,17 +2,46 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
-    "players_count": "1/32",
-    "timeleft": "13:57",
-    "score_igi": "1",
-    "score_con": "0",
-    "team_igi_players": [],
+    "players_count": "5/32",
+    "timeleft": "14:55",
+    "score_igi": "0",
+    "score_con": "2",
+    "team_igi_players": [
+      {
+        "name": "Mr.X",
+        "frags": "60",
+        "deaths": "27",
+        "ping": "73",
+        "team": "0"
+      },
+      {
+        "name": "PuNisherX",
+        "frags": "18",
+        "deaths": "19",
+        "ping": "39",
+        "team": "0"
+      },
+      {
+        "name": "ekk",
+        "frags": "3",
+        "deaths": "2",
+        "ping": "45",
+        "team": "0"
+      }
+    ],
     "team_con_players": [
       {
         "name": "killer01623",
-        "frags": "15",
-        "deaths": "13",
-        "ping": "64",
+        "frags": "25",
+        "deaths": "25",
+        "ping": "58",
+        "team": "1"
+      },
+      {
+        "name": "Kung Fu Panda",
+        "frags": "7",
+        "deaths": "16",
+        "ping": "49",
         "team": "1"
       }
     ],
