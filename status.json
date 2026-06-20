@@ -1,21 +1,78 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "1/32",
-    "timeleft": "01:30",
-    "score_igi": "1",
+    "mapname": "Pribois villa",
+    "players_count": "9/32",
+    "timeleft": "06:57",
+    "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "THX  ^^  KING VON ^",
-        "frags": "47",
-        "deaths": "35",
-        "ping": "120",
+        "name": "ekk",
+        "frags": "17",
+        "deaths": "12",
+        "ping": "53",
+        "team": "0"
+      },
+      {
+        "name": "shef",
+        "frags": "13",
+        "deaths": "8",
+        "ping": "174",
+        "team": "0"
+      },
+      {
+        "name": "THX ~!! mOsT_wAnTed",
+        "frags": "3",
+        "deaths": "9",
+        "ping": "59",
+        "team": "0"
+      },
+      {
+        "name": "PuNisherX",
+        "frags": "10",
+        "deaths": "8",
+        "ping": "27",
         "team": "0"
       }
     ],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "LinuX Man",
+        "frags": "21",
+        "deaths": "16",
+        "ping": "99",
+        "team": "1"
+      },
+      {
+        "name": "vlad dracula/AHMAD",
+        "frags": "4",
+        "deaths": "12",
+        "ping": "64",
+        "team": "1"
+      },
+      {
+        "name": "M.Akmal47",
+        "frags": "0",
+        "deaths": "0",
+        "ping": "177",
+        "team": "1"
+      },
+      {
+        "name": "immortal",
+        "frags": "1",
+        "deaths": "14",
+        "ping": "395",
+        "team": "1"
+      },
+      {
+        "name": "unknown person",
+        "frags": "5",
+        "deaths": "12",
+        "ping": "325",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
