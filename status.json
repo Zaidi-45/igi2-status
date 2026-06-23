@@ -1,13 +1,12 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Pribois villa",
-    "players_count": "0/32",
-    "timeleft": "14:12",
-    "score_igi": "0",
-    "score_con": "1",
+    "status": "Offline",
+    "mapname": "-",
+    "timeleft": "--:--",
+    "score_igi": 0,
+    "score_con": 0,
     "team_igi_players": [],
-    "team_con_players": [],
-    "status": "Online"
+    "team_con_players": []
   }
 ]
