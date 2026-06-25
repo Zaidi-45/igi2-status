@@ -1,54 +1,54 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
+    "mapname": "Sandstorm",
     "players_count": "6/32",
-    "timeleft": "13:07",
-    "score_igi": "1",
+    "timeleft": "05:20",
+    "score_igi": "2",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "ekk",
-        "frags": "1",
-        "deaths": "5",
-        "ping": "47",
-        "team": "0"
-      },
-      {
         "name": "immortal",
-        "frags": "5",
-        "deaths": "7",
-        "ping": "78",
+        "frags": "19",
+        "deaths": "31",
+        "ping": "65",
         "team": "0"
       },
       {
-        "name": "Khalid",
+        "name": "leguy",
+        "frags": "8",
+        "deaths": "26",
+        "ping": "87",
+        "team": "0"
+      },
+      {
+        "name": "Irfan YT",
         "frags": "4",
-        "deaths": "4",
-        "ping": "46",
+        "deaths": "8",
+        "ping": "33",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "killer01623",
-        "frags": "5",
-        "deaths": "6",
-        "ping": "56",
+        "name": "Khalid",
+        "frags": "52",
+        "deaths": "28",
+        "ping": "47",
         "team": "1"
       },
       {
-        "name": "leguy",
-        "frags": "1",
-        "deaths": "8",
-        "ping": "112",
+        "name": "A.Hassan gamer",
+        "frags": "7",
+        "deaths": "20",
+        "ping": "165",
         "team": "1"
       },
       {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "3",
-        "deaths": "4",
-        "ping": "68",
+        "name": "unknown person",
+        "frags": "26",
+        "deaths": "20",
+        "ping": "92",
         "team": "1"
       }
     ],
