@@ -1,12 +1,57 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "status": "Offline",
-    "mapname": "-",
-    "timeleft": "--:--",
-    "score_igi": 0,
-    "score_con": 0,
-    "team_igi_players": [],
-    "team_con_players": []
+    "mapname": "Factory 2026",
+    "players_count": "6/32",
+    "timeleft": "13:07",
+    "score_igi": "1",
+    "score_con": "0",
+    "team_igi_players": [
+      {
+        "name": "ekk",
+        "frags": "1",
+        "deaths": "5",
+        "ping": "47",
+        "team": "0"
+      },
+      {
+        "name": "immortal",
+        "frags": "5",
+        "deaths": "7",
+        "ping": "78",
+        "team": "0"
+      },
+      {
+        "name": "Khalid",
+        "frags": "4",
+        "deaths": "4",
+        "ping": "46",
+        "team": "0"
+      }
+    ],
+    "team_con_players": [
+      {
+        "name": "killer01623",
+        "frags": "5",
+        "deaths": "6",
+        "ping": "56",
+        "team": "1"
+      },
+      {
+        "name": "leguy",
+        "frags": "1",
+        "deaths": "8",
+        "ping": "112",
+        "team": "1"
+      },
+      {
+        "name": "THX ~!! mOsT_wAnTed",
+        "frags": "3",
+        "deaths": "4",
+        "ping": "68",
+        "team": "1"
+      }
+    ],
+    "status": "Online"
   }
 ]
