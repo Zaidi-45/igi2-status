@@ -1,71 +1,12 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
-    "players_count": "8/32",
-    "timeleft": "07:12",
-    "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "Khalid",
-        "frags": "17",
-        "deaths": "9",
-        "ping": "46",
-        "team": "0"
-      },
-      {
-        "name": "Jones",
-        "frags": "1",
-        "deaths": "17",
-        "ping": "67",
-        "team": "0"
-      },
-      {
-        "name": "David Jones IGI",
-        "frags": "1",
-        "deaths": "9",
-        "ping": "66",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "killer01623",
-        "frags": "15",
-        "deaths": "4",
-        "ping": "66",
-        "team": "1"
-      },
-      {
-        "name": "RubalTheLord",
-        "frags": "5",
-        "deaths": "7",
-        "ping": "89",
-        "team": "1"
-      },
-      {
-        "name": "leguy",
-        "frags": "2",
-        "deaths": "18",
-        "ping": "95",
-        "team": "1"
-      },
-      {
-        "name": "JAHAR - TAMERLAN",
-        "frags": "0",
-        "deaths": "1",
-        "ping": "216",
-        "team": "1"
-      },
-      {
-        "name": "Mr.X",
-        "frags": "20",
-        "deaths": "2",
-        "ping": "64",
-        "team": "1"
-      }
-    ],
-    "status": "Online"
+    "status": "Offline",
+    "mapname": "-",
+    "timeleft": "--:--",
+    "score_igi": 0,
+    "score_con": 0,
+    "team_igi_players": [],
+    "team_con_players": []
   }
 ]
