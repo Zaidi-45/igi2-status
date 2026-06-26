@@ -1,43 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "4/32",
-    "timeleft": "05:12",
-    "score_igi": "2",
+    "mapname": "Aim map",
+    "players_count": "0/32",
+    "timeleft": "11:36",
+    "score_igi": "1",
     "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "immortal",
-        "frags": "3",
-        "deaths": "7",
-        "ping": "62",
-        "team": "0"
-      },
-      {
-        "name": "Assag",
-        "frags": "5",
-        "deaths": "4",
-        "ping": "159",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "13",
-        "deaths": "9",
-        "ping": "62",
-        "team": "1"
-      },
-      {
-        "name": "arslan gandu igi2",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "54",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
