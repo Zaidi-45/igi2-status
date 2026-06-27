@@ -2,27 +2,28 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Aim map",
-    "players_count": "3/32",
-    "timeleft": "02:49",
+    "players_count": "2/32",
+    "timeleft": "06:04",
     "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "Talha",
-        "frags": "6",
+        "name": "THX ~!! mOsT_wAnTed",
+        "frags": "9",
         "deaths": "18",
-        "ping": "64",
-        "team": "0"
-      },
-      {
-        "name": "leguy",
-        "frags": "-1",
-        "deaths": "3",
-        "ping": "111",
+        "ping": "71",
         "team": "0"
       }
     ],
-    "team_con_players": [],
+    "team_con_players": [
+      {
+        "name": "killer01623",
+        "frags": "6",
+        "deaths": "12",
+        "ping": "50",
+        "team": "1"
+      }
+    ],
     "status": "Online"
   }
 ]
