@@ -1,29 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Aim map",
-    "players_count": "2/32",
-    "timeleft": "06:04",
+    "mapname": "The Karkand",
+    "players_count": "0/32",
+    "timeleft": "12:13",
     "score_igi": "0",
     "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "9",
-        "deaths": "18",
-        "ping": "71",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "killer01623",
-        "frags": "6",
-        "deaths": "12",
-        "ping": "50",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
