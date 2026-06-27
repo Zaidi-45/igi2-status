@@ -1,43 +1,28 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Radar Base",
-    "players_count": "4/32",
-    "timeleft": "14:49",
-    "score_igi": "1",
+    "mapname": "Aim map",
+    "players_count": "3/32",
+    "timeleft": "02:49",
+    "score_igi": "0",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "David Jones IGI",
-        "frags": "2",
-        "deaths": "5",
-        "ping": "544",
-        "team": "0"
-      },
-      {
-        "name": "Mr.X",
-        "frags": "1",
-        "deaths": "1",
+        "name": "Talha",
+        "frags": "6",
+        "deaths": "18",
         "ping": "64",
         "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "immortal",
-        "frags": "3",
-        "deaths": "3",
-        "ping": "67",
-        "team": "1"
       },
       {
-        "name": "Talha",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "52",
-        "team": "1"
+        "name": "leguy",
+        "frags": "-1",
+        "deaths": "3",
+        "ping": "111",
+        "team": "0"
       }
     ],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
