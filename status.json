@@ -1,64 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Radar Base",
-    "players_count": "7/32",
-    "timeleft": "MISSION OVER",
+    "mapname": "Pribois villa",
+    "players_count": "0/32",
+    "timeleft": "09:25",
     "score_igi": "0",
     "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "21",
-        "deaths": "25",
-        "ping": "95",
-        "team": "0"
-      },
-      {
-        "name": "immortal",
-        "frags": "22",
-        "deaths": "32",
-        "ping": "86",
-        "team": "0"
-      },
-      {
-        "name": "SGT__FARSHAD",
-        "frags": "20",
-        "deaths": "15",
-        "ping": "170",
-        "team": "0"
-      },
-      {
-        "name": "shef",
-        "frags": "18",
-        "deaths": "18",
-        "ping": "205",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Jones",
-        "frags": "31",
-        "deaths": "18",
-        "ping": "216",
-        "team": "1"
-      },
-      {
-        "name": "Jones",
-        "frags": "29",
-        "deaths": "29",
-        "ping": "57",
-        "team": "1"
-      },
-      {
-        "name": "killer01623",
-        "frags": "13",
-        "deaths": "10",
-        "ping": "44",
-        "team": "1"
-      }
-    ],
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
