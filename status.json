@@ -1,18 +1,68 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
-    "players_count": "1/32",
-    "timeleft": "02:13",
-    "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [],
+    "mapname": "DE_Italy",
+    "players_count": "8/32",
+    "timeleft": "04:45",
+    "score_igi": "1",
+    "score_con": "1",
+    "team_igi_players": [
+      {
+        "name": "Jones",
+        "frags": "8",
+        "deaths": "11",
+        "ping": "230",
+        "team": "0"
+      },
+      {
+        "name": "leguy",
+        "frags": "8",
+        "deaths": "14",
+        "ping": "96",
+        "team": "0"
+      },
+      {
+        "name": "Jones",
+        "frags": "3",
+        "deaths": "2",
+        "ping": "61",
+        "team": "0"
+      },
+      {
+        "name": "Cow",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "84",
+        "team": "0"
+      }
+    ],
     "team_con_players": [
       {
-        "name": "RageX -_-",
+        "name": "JAHAR - TAMERLAN",
+        "frags": "5",
+        "deaths": "8",
+        "ping": "224",
+        "team": "1"
+      },
+      {
+        "name": "killer01623",
+        "frags": "14",
+        "deaths": "9",
+        "ping": "55",
+        "team": "1"
+      },
+      {
+        "name": "Irfan YT",
         "frags": "1",
+        "deaths": "2",
+        "ping": "26",
+        "team": "1"
+      },
+      {
+        "name": "KISH4N ADK4T4LW4R",
+        "frags": "3",
         "deaths": "0",
-        "ping": "46",
+        "ping": "99",
         "team": "1"
       }
     ],
