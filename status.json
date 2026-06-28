@@ -2,17 +2,60 @@
   {
     "hostname": "DON CLAN IGI2",
     "mapname": "Factory 2026",
-    "players_count": "1/32",
-    "timeleft": "09:31",
+    "players_count": "7/32",
+    "timeleft": "05:46",
     "score_igi": "0",
     "score_con": "0",
-    "team_igi_players": [],
+    "team_igi_players": [
+      {
+        "name": "Jones",
+        "frags": "8",
+        "deaths": "6",
+        "ping": "46",
+        "team": "0"
+      },
+      {
+        "name": "LinuX Man",
+        "frags": "9",
+        "deaths": "16",
+        "ping": "115",
+        "team": "0"
+      },
+      {
+        "name": "AssaultSharpShooter",
+        "frags": "9",
+        "deaths": "6",
+        "ping": "51",
+        "team": "0"
+      }
+    ],
     "team_con_players": [
       {
-        "name": "DON",
+        "name": "THX ~!! mOsT_wAnTed",
+        "frags": "13",
+        "deaths": "11",
+        "ping": "61",
+        "team": "1"
+      },
+      {
+        "name": "shadowcamper",
+        "frags": "11",
+        "deaths": "6",
+        "ping": "60",
+        "team": "1"
+      },
+      {
+        "name": "David Jones IGI",
+        "frags": "3",
+        "deaths": "13",
+        "ping": "67",
+        "team": "1"
+      },
+      {
+        "name": "killer01623",
         "frags": "0",
         "deaths": "0",
-        "ping": "52",
+        "ping": "54",
         "team": "1"
       }
     ],
