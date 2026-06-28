@@ -1,40 +1,18 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Radar Base",
-    "players_count": "4/32",
-    "timeleft": "09:39",
+    "mapname": "Factory 2026",
+    "players_count": "1/32",
+    "timeleft": "02:13",
     "score_igi": "0",
-    "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "Jones",
-        "frags": "21",
-        "deaths": "17",
-        "ping": "196",
-        "team": "0"
-      },
-      {
-        "name": "RageX -_-",
-        "frags": "6",
-        "deaths": "3",
-        "ping": "50",
-        "team": "0"
-      }
-    ],
+    "score_con": "0",
+    "team_igi_players": [],
     "team_con_players": [
       {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "26",
-        "deaths": "15",
-        "ping": "82",
-        "team": "1"
-      },
-      {
-        "name": "killer01623",
-        "frags": "3",
-        "deaths": "5",
-        "ping": "50",
+        "name": "RageX -_-",
+        "frags": "1",
+        "deaths": "0",
+        "ping": "46",
         "team": "1"
       }
     ],
