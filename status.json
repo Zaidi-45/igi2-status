@@ -1,61 +1,40 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Factory 2026",
-    "players_count": "7/32",
-    "timeleft": "05:46",
+    "mapname": "Radar Base",
+    "players_count": "4/32",
+    "timeleft": "09:39",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [
       {
         "name": "Jones",
-        "frags": "8",
-        "deaths": "6",
-        "ping": "46",
+        "frags": "21",
+        "deaths": "17",
+        "ping": "196",
         "team": "0"
       },
       {
-        "name": "LinuX Man",
-        "frags": "9",
-        "deaths": "16",
-        "ping": "115",
-        "team": "0"
-      },
-      {
-        "name": "AssaultSharpShooter",
-        "frags": "9",
-        "deaths": "6",
-        "ping": "51",
+        "name": "RageX -_-",
+        "frags": "6",
+        "deaths": "3",
+        "ping": "50",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
         "name": "THX ~!! mOsT_wAnTed",
-        "frags": "13",
-        "deaths": "11",
-        "ping": "61",
-        "team": "1"
-      },
-      {
-        "name": "shadowcamper",
-        "frags": "11",
-        "deaths": "6",
-        "ping": "60",
-        "team": "1"
-      },
-      {
-        "name": "David Jones IGI",
-        "frags": "3",
-        "deaths": "13",
-        "ping": "67",
+        "frags": "26",
+        "deaths": "15",
+        "ping": "82",
         "team": "1"
       },
       {
         "name": "killer01623",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "54",
+        "frags": "3",
+        "deaths": "5",
+        "ping": "50",
         "team": "1"
       }
     ],
