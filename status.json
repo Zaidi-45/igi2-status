@@ -1,54 +1,40 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "6/32",
-    "timeleft": "12:26",
-    "score_igi": "0",
+    "mapname": "DE_Italy",
+    "players_count": "5/32",
+    "timeleft": "05:02",
+    "score_igi": "1",
     "score_con": "0",
     "team_igi_players": [
       {
-        "name": "RageX -_-",
-        "frags": "0",
+        "name": "TEST",
+        "frags": "1",
         "deaths": "1",
-        "ping": "48",
+        "ping": "45",
         "team": "0"
       },
       {
-        "name": "Khalid",
+        "name": "Ayan",
         "frags": "0",
         "deaths": "0",
-        "ping": "48",
-        "team": "0"
-      },
-      {
-        "name": "Dick Head",
-        "frags": "0",
-        "deaths": "2",
-        "ping": "215",
+        "ping": "83",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "THX ~!! mOsT_wAnTed",
-        "frags": "2",
-        "deaths": "0",
-        "ping": "62",
+        "name": "AHMAD 18",
+        "frags": "0",
+        "deaths": "1",
+        "ping": "63",
         "team": "1"
       },
       {
-        "name": "leguy",
+        "name": "Jones",
         "frags": "0",
         "deaths": "0",
-        "ping": "100",
-        "team": "1"
-      },
-      {
-        "name": "David Jones IGI",
-        "frags": "1",
-        "deaths": "0",
-        "ping": "76",
+        "ping": "232",
         "team": "1"
       }
     ],
