@@ -3,24 +3,24 @@
     "hostname": "DON CLAN IGI2",
     "mapname": "Pribois villa",
     "players_count": "2/32",
-    "timeleft": "04:28",
+    "timeleft": "02:51",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "2",
     "team_igi_players": [
       {
-        "name": "Chinese Temple",
-        "frags": "1",
-        "deaths": "8",
-        "ping": "77",
+        "name": "Talha",
+        "frags": "2",
+        "deaths": "0",
+        "ping": "52",
         "team": "0"
       }
     ],
     "team_con_players": [
       {
-        "name": "IT4CHI_F4N",
-        "frags": "6",
-        "deaths": "4",
-        "ping": "43",
+        "name": "Mr.X",
+        "frags": "0",
+        "deaths": "2",
+        "ping": "63",
         "team": "1"
       }
     ],
