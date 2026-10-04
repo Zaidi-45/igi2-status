@@ -5,7 +5,7 @@ import os
 # --- CONFIGURATION ---
 # YOUR SPECIFIC SERVER
 SERVERS = [
-    {"ip": "182.182.227.21", "port": 26001, "name": "DON CLAN IGI2"}
+    {"ip": "85.237.211.245", "port": 26001, "name": "DON CLAN IGI2"}
 ]
 # ---------------------
 
