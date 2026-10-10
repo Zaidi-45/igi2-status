@@ -1,29 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "The Airfield 2024",
-    "players_count": "2/32",
-    "timeleft": "06:12",
-    "score_igi": "2",
-    "score_con": "1",
-    "team_igi_players": [
-      {
-        "name": "ASAD_1118",
-        "frags": "31",
-        "deaths": "72",
-        "ping": "69",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "xDANgRx",
-        "frags": "25",
-        "deaths": "47",
-        "ping": "59",
-        "team": "1"
-      }
-    ],
+    "mapname": "Sandstorm",
+    "players_count": "0/32",
+    "timeleft": "07:37",
+    "score_igi": "0",
+    "score_con": "2",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
