@@ -1,20 +1,12 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "The Airfield 2024",
-    "players_count": "1/32",
-    "timeleft": "08:52",
+    "mapname": "Factory 2026",
+    "players_count": "0/32",
+    "timeleft": "08:06",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "ASAD_1118",
-        "frags": "2",
-        "deaths": "2",
-        "ping": "61",
-        "team": "0"
-      }
-    ],
+    "score_con": "1",
+    "team_igi_players": [],
     "team_con_players": [],
     "status": "Online"
   }
