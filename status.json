@@ -1,36 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Killhouse",
-    "players_count": "3/32",
-    "timeleft": "01:18",
+    "mapname": "The Airfield 2024",
+    "players_count": "0/32",
+    "timeleft": "06:06",
     "score_igi": "0",
-    "score_con": "0",
-    "team_igi_players": [
-      {
-        "name": "LinuX Man",
-        "frags": "7",
-        "deaths": "7",
-        "ping": "133",
-        "team": "0"
-      }
-    ],
-    "team_con_players": [
-      {
-        "name": "Sinbaad45",
-        "frags": "13",
-        "deaths": "7",
-        "ping": "58",
-        "team": "1"
-      },
-      {
-        "name": "ASAD_1118",
-        "frags": "0",
-        "deaths": "0",
-        "ping": "559",
-        "team": "1"
-      }
-    ],
+    "score_con": "1",
+    "team_igi_players": [],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
