@@ -1,21 +1,13 @@
 [
   {
     "hostname": "DON CLAN IGI2",
-    "mapname": "Sandstorm",
-    "players_count": "1/32",
-    "timeleft": "06:58",
+    "mapname": "The Airfield 2024",
+    "players_count": "0/32",
+    "timeleft": "13:02",
     "score_igi": "0",
-    "score_con": "0",
+    "score_con": "1",
     "team_igi_players": [],
-    "team_con_players": [
-      {
-        "name": "GTA4Love",
-        "frags": "0",
-        "deaths": "3",
-        "ping": "191",
-        "team": "1"
-      }
-    ],
+    "team_con_players": [],
     "status": "Online"
   }
 ]
